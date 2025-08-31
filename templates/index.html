@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Hero Banner -->
+<div class="jumbotron jumbotron-fluid bg-success text-white rounded-corners text-center py-5 mb-5">
+    <div class="container">
+        <h1 class="display-4 font-weight-bold mb-3">Welcome to the Food App</h1>
+        <p class="lead mb-4">Enter your food tastes and discover new dishes!</p>
+        <a class="btn btn-light btn-lg" href="{{ url_for('list_dishes') }}" role="button">
+            Browse Dishes
+        </a>
+    </div>
+</div>
+
+<!-- User Testimonials Section -->
+<div class="container mb-5">
+    <h2 class="text-center font-weight-bold mb-4">What Our Users Say</h2>
+    <div class="row">
+        {% for name, quote in [('Alice', "This app is amazing! I've discovered so many new recipes."), ('Bob', "Easy to
+        use and so many great dishes to try. Love it!"), ('Carol', "The reviews help me decide which dishes to make.
+        Fantastic app!")] %}
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm rounded-corners border-0">
+                <div class="card-body d-flex flex-column justify-content-center">
+                    <h5 class="card-title text-center mb-3">{{ name }}</h5>
+                    <p class="card-text text-center text-muted mb-0">“{{ quote }}”</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

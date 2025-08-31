@@ -1,0 +1,134 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mb-5">
+    <div class="card shadow-sm rounded-corners">
+        <div class="row no-gutters">
+            <div class="col-lg-5">
+                <div class="card-img-container">
+                    <img alt="{{ dish.name }}"
+                         class="object-fit-cover rounded-left h-100"
+                         src="{{ dish.image }}">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-3">{{ dish.name }}</h2>
+                    <p class="card-text mb-4"><em>{{ dish.description }}</em></p>
+                    <!-- Tag Display -->
+{% if dish.tags %}
+<div class="mb-3">
+    {% for tag in dish.tags %}
+    <span class="badge badge-success mr-1 mb-1">{{ tag }}</span>
+    {% endfor %}
+</div>
+{% endif %}
+
+
+                    <!-- Tabs -->
+                    <ul class="nav nav-tabs" id="detailTabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab"
+                               href="#ingredients" id="ingredients-tab" role="tab">
+                                Ingredients
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab"
+                               href="#preparation" id="preparation-tab" role="tab">
+                                Preparation
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab"
+                               href="#reviews" id="reviews-tab" role="tab">
+                                Reviews ({{ dish.reviews|length }})
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="tab-content mt-3" id="detailTabsContent">
+                        <!-- Ingredients -->
+                        <div class="tab-pane fade show active" id="ingredients" role="tabpanel">
+                            <ul class="list-group list-group-flush">
+                                {% for ingredient in dish.ingredients %}
+                                <li class="list-group-item d-flex align-items-start">
+                                    <span class="bullet mr-2">•</span>{{ ingredient }}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+
+                        <!-- Preparation -->
+                        <div class="tab-pane fade" id="preparation" role="tabpanel">
+                            <ol class="list-group list-group-flush">
+                                {% for step in dish.preparation %}
+                                <li class="list-group-item d-flex align-items-start">
+                                    <span class="step mr-2">{{ loop.index }}.</span>{{ step }}
+                                </li>
+                                {% endfor %}
+                            </ol>
+                        </div>
+
+                        <!-- Reviews -->
+                        <div class="tab-pane fade" id="reviews" role="tabpanel">
+                            {% if dish.reviews %}
+                            {% for review in dish.reviews %}
+                            <div class="review border rounded p-3 mb-3">
+                                <div class="review-header d-flex justify-content-between">
+                                    <div class="review-user">{{ review.user }}</div>
+                                    <div class="review-date text-muted">{{ review.date }}</div>
+                                </div>
+                                <div class="review-rating mb-2">{{ review.rating }} ★</div>
+                                <div class="review-comment text-muted">{{ review.comment }}</div>
+                            </div>
+                            {% endfor %}
+                            {% else %}
+                            <p class="text-muted">No reviews yet. Be the first!</p>
+                            {% endif %}
+
+                            <!-- Inline Add-Review Form -->
+                            <div class="card mt-4">
+                                <div class="card-header">
+                                    <a aria-expanded="false" class="collapsed" data-toggle="collapse"
+                                       href="#addReviewForm">
+                                        + Add a Review
+                                    </a>
+                                </div>
+                                <div class="collapse" id="addReviewForm">
+                                    <div class="card-body">
+                                        <form action="{{ url_for('rate_dish') }}" method="post">
+                                            <input name="dish_id" type="hidden" value="{{ dish.id }}">
+                                            <div class="form-row">
+                                                <div class="form-group col-md-6">
+                                                    <label for="rating">Rating (1–5)</label>
+                                                    <input class="form-control" id="rating" max="5"
+                                                           min="1" name="rating" required type="number">
+                                                </div>
+                                                <div class="form-group col-md-6">
+                                                    <label for="user">Name</label>
+                                                    <input class="form-control" id="user" name="user"
+                                                           required type="text">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="comment">Comment</label>
+                                                <textarea class="form-control" id="comment"
+                                                          name="comment" required rows="3"></textarea>
+                                            </div>
+                                            <button class="btn btn-success btn-block" type="submit">
+                                                Submit Review
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Inline Form -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
