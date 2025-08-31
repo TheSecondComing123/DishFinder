@@ -287,3 +287,98 @@ body {
     border-radius: 999px; /* keep the pill look */
 }
 
+/* Rating Badge Improvements */
+.rating-badge {
+    display: inline-flex;
+    align-items: center;
+    background: linear-gradient(135deg, #ffc107 0%, #ff8f00 100%);
+    color: #fff;
+    border-radius: 20px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(255, 193, 7, 0.3);
+    margin-bottom: 0.75rem;
+    transition: all 0.2s ease;
+}
+
+.rating-badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(255, 193, 7, 0.4);
+}
+
+.rating-badge .star {
+    margin-right: 0.25rem;
+    font-size: 0.9rem;
+}
+
+.rating-badge .count {
+    margin-left: 0.25rem;
+    font-size: 0.8rem;
+    opacity: 0.9;
+}
+
+/* No Rating State */
+.no-rating {
+    display: inline-flex;
+    align-items: center;
+    background: #e9ecef;
+    color: #6c757d;
+    border-radius: 20px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-bottom: 0.75rem;
+}
+
+/* Card Layout Improvements */
+.dish-card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.dish-meta {
+    margin-top: auto;
+    padding-top: 1rem;
+}
+
+.dish-tags {
+    min-height: 60px; /* Consistent height for tag area */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    margin-bottom: 1rem;
+}
+
+.dish-tags .badge {
+    margin: 0.125rem 0.25rem 0.125rem 0;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+}
+
+/* Rating in Detail View */
+.dish-detail-rating {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.dish-detail-rating .rating-badge {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .rating-badge {
+        font-size: 0.8rem;
+        padding: 0.2rem 0.6rem;
+    }
+    
+    .dish-tags {
+        min-height: 50px;
+    }
+}
