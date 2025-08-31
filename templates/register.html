@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6 col-lg-5">
+        <div class="card shadow-sm rounded-corners">
+            <div class="card-body p-4">
+                <h2 class="card-title text-center mb-4">Register</h2>
+                <form action="{{ url_for('register') }}" method="post" novalidate>
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="fas fa-user-plus"></i>
+                                </span>
+                            </div>
+                            <input
+                                autofocus
+                                class="form-control"
+                                id="username"
+                                name="username"
+                                placeholder="Choose a username"
+                                required
+                                type="text">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="fas fa-key"></i>
+                                </span>
+                            </div>
+                            <input
+                                class="form-control"
+                                id="password"
+                                name="password"
+                                placeholder="Create a password"
+                                required
+                                type="password">
+                        </div>
+                    </div>
+
+                    <button class="btn btn-success btn-block"
+                            type="submit"
+                            style="transition: transform 0.2s ease-in-out;"
+                            onmouseover="this.style.transform='scale(1.03)'"
+                            onmouseout="this.style.transform='scale(1)'">
+                        Register
+                    </button>
+                </form>
+            </div>
+            <div class="card-footer text-center bg-white">
+                <small class="text-muted">
+                    Already have an account?
+                    <a href="{{ url_for('login') }}">Login here</a>
+                </small>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

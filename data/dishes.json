@@ -1,0 +1,1149 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti alla Carbonara",
+        "description": "Traditional Roman pasta tossed in a silky sauce of eggs, Pecorino Romano, guanciale and black pepper.",
+        "ingredients": [
+            "200 g dried spaghetti",
+            "100 g guanciale (or pancetta), diced into 1 cm cubes",
+            "2 large free-range egg yolks",
+            "1 whole large egg",
+            "60 g finely grated Pecorino Romano",
+            "30 g finely grated Parmigiano-Reggiano",
+            "1 tsp freshly cracked black pepper",
+            "Salt (for pasta water only)"
+        ],
+        "preparation": [
+            "Bring a large pot of water to a rolling boil, salt generously (it should taste like the sea).",
+            "Meanwhile, in a cold pan over medium, render the guanciale cubes for 6–8 minutes until golden and crisp. Remove from heat.",
+            "In a bowl, whisk together yolks, whole egg, both cheeses, and black pepper until creamy.",
+            "Cook spaghetti until just shy of al dente (about 1 minute less than package instructions). Reserve ½ cup pasta water, then drain.",
+            "Immediately add hot spaghetti to the guanciale pan (off heat) and toss to coat in fat.",
+            "Pour the egg-cheese mixture over pasta, stirring briskly to form a smooth sauce—add splashes of reserved pasta water as needed to loosen.",
+            "Serve on warmed plates with an extra dusting of Pecorino and a crack of black pepper."
+        ],
+        "image": "/static/images/spaghetti_carbonara.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "ur mom",
+                "date": "2025-07-10"
+            },
+            {
+                "user": "c",
+                "rating": 3,
+                "comment": "mid",
+                "date": "2024-06-23"
+            },
+            {
+                "user": "a",
+                "rating": 3.5,
+                "comment": "a",
+                "date": "2024-06-23"
+            },
+            {
+                "user": "s",
+                "rating": 3,
+                "comment": "A bit cheesy for me but pretty good.",
+                "date": "2024-06-23"
+            },
+            {
+                "user": "Bob",
+                "rating": 4,
+                "comment": "Tasty but a bit rich.",
+                "date": "2024-01-02"
+            },
+            {
+                "user": "Alice",
+                "rating": 5,
+                "comment": "Delicious!",
+                "date": "2024-01-01"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Egg-based",
+            "Italian",
+            "Pasta",
+            "Quick"
+        ],
+        "avg_rating": 3.92
+    },
+    {
+        "id": 2,
+        "name": "Creamy Coconut Chicken Curry",
+        "description": "A gently spiced, coconut-milk-based curry with tender chicken pieces and fragrant aromatics.",
+        "ingredients": [
+            "500 g boneless skinless chicken thighs, cut into 3 cm pieces",
+            "1 large yellow onion, finely chopped",
+            "3 cloves garlic, minced",
+            "2 cm piece fresh ginger, grated",
+            "2 tbsp vegetable oil",
+            "2 tbsp curry powder (Madras style)",
+            "1 tsp ground turmeric",
+            "1 tsp ground cumin",
+            "½ tsp chili flakes (optional)",
+            "400 ml full-fat coconut milk",
+            "200 ml chicken stock",
+            "Salt and freshly ground black pepper",
+            "Juice of ½ lime",
+            "Handful of fresh cilantro leaves, chopped"
+        ],
+        "preparation": [
+            "Heat oil in a large skillet over medium heat. Saute onion until translucent, about 5 minutes.",
+            "Add garlic and ginger, cook for 1 minute until fragrant.",
+            "Stir in curry powder, turmeric, cumin, and chili flakes; toast spices 30 seconds while stirring.",
+            "Add chicken pieces, season with salt and pepper, and brown on all sides (about 5 minutes).",
+            "Pour in coconut milk and stock; bring to a gentle simmer. Reduce heat to low and cook uncovered for 20 minutes, stirring occasionally.",
+            "Taste and adjust seasoning, then stir in lime juice.",
+            "Garnish with cilantro and serve hot over steamed jasmine rice or with warm naan."
+        ],
+        "image": "/static/images/chicken_curry.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 4,
+                "comment": "Tasted like edible food.",
+                "date": "2025-07-10"
+            },
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "good",
+                "date": "2025-06-30"
+            },
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "Delicious, just like your mo-",
+                "date": "2024-06-23"
+            },
+            {
+                "user": "s",
+                "rating": 1,
+                "comment": "I'm just hate-reviewing because I don't like flask.",
+                "date": "2024-06-23"
+            },
+            {
+                "user": "Dave",
+                "rating": 3,
+                "comment": "Too spicy for me.",
+                "date": "2024-01-02"
+            },
+            {
+                "user": "Carol",
+                "rating": 5,
+                "comment": "Best curry ever!",
+                "date": "2024-01-01"
+            }
+        ],
+        "tags": [
+            "Chicken",
+            "Curry",
+            "Dairy-Free",
+            "Dinner",
+            "Indian"
+        ],
+        "avg_rating": 3.83
+    },
+    {
+        "id": 3,
+        "name": "Lemon-Herb Roasted Chicken",
+        "description": "Juicy chicken thighs roasted with bright lemon slices, garlic, and a mix of rosemary, thyme, and parsley.",
+        "ingredients": [
+            "4 bone-in, skin-on chicken thighs (about 800 g)",
+            "1 large lemon, sliced into 8 rounds",
+            "4 cloves garlic, smashed",
+            "2 tbsp olive oil",
+            "1 tbsp fresh rosemary, chopped",
+            "1 tbsp fresh thyme leaves",
+            "1 tbsp fresh parsley, chopped",
+            "Salt and freshly ground black pepper"
+        ],
+        "preparation": [
+            "Preheat oven to 220 °C (425 °F).",
+            "Pat chicken thighs dry and season generously with salt and pepper.",
+            "In a bowl, toss lemon slices and garlic with olive oil and chopped herbs.",
+            "Arrange chicken skin-side up in a roasting pan, nestle herb-lemon mixture around and under thighs.",
+            "Roast for 35–40 minutes until skin is golden, juices run clear and an instant-read thermometer reads 75 °C in thickest part.",
+            "Let rest 5 minutes, then garnish with extra parsley and serve."
+        ],
+        "image": "/static/images/lemon_herb_chicken.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "good",
+                "date": "2025-07-11"
+            },
+            {
+                "user": "a",
+                "rating": 3,
+                "comment": "I can't complain, but I've had better. Not to say it's bad, it's perfectly fine for a tasty and relatively-low effort whole roast chicken weekend meal but it's not great either.",
+                "date": "2025-07-10"
+            }
+        ],
+        "tags": [
+            "American",
+            "Chicken",
+            "Dinner",
+            "Gluten-Free",
+            "Roast"
+        ],
+        "avg_rating": 4.0
+    },
+    {
+        "id": 4,
+        "name": "One-Pot Creamy Tomato Pasta",
+        "description": "Pasta cooked right in a garlicky tomato-cream sauce, finished with parmesan and fresh basil.",
+        "ingredients": [
+            "300 g dried penne or fusilli",
+            "1 tbsp olive oil",
+            "1 small onion, finely chopped",
+            "3 cloves garlic, minced",
+            "400 g canned crushed tomatoes",
+            "500 ml water or stock",
+            "100 ml heavy cream (or milk)",
+            "50 g Parmesan, grated",
+            "Handful fresh basil leaves, torn",
+            "Salt and pepper"
+        ],
+        "preparation": [
+            "Heat oil in a large pot over medium heat. Saute onion until translucent, about 5 minutes.",
+            "Add garlic and cook 1 minute more.",
+            "Stir in crushed tomatoes, water (or stock), and pasta. Season lightly with salt and pepper.",
+            "Bring to a gentle boil, then reduce heat and simmer, stirring occasionally, until pasta is al dente and sauce has thickened (about 12 minutes).",
+            "Stir in cream and Parmesan until silky.",
+            "Remove from heat, fold in basil, adjust seasoning, and serve hot."
+        ],
+        "image": "/static/images/one_pot_tomato_pasta.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 1,
+                "comment": "I don't like pasta.",
+                "date": "2025-07-10"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Italian",
+            "One-Pot",
+            "Pasta",
+            "Vegetarian"
+        ],
+        "avg_rating": 1.0
+    },
+    {
+        "id": 5,
+        "name": "Garlic-Butter Shrimp & Rice",
+        "description": "Succulent shrimp sauteed in garlic-butter sauce, served over fluffy rice with a sprinkle of parsley.",
+        "ingredients": [
+            "300 g shrimp (peeled & deveined)",
+            "2 tbsp butter",
+            "3 cloves garlic, minced",
+            "1 cup long-grain rice",
+            "2 cups water or stock",
+            "2 tbsp fresh parsley, chopped",
+            "Salt and pepper",
+            "Lemon wedges, to serve"
+        ],
+        "preparation": [
+            "Cook rice in water (or stock) according to package instructions. Fluff and keep warm.",
+            "Meanwhile, melt butter in a large skillet over medium heat. Add garlic and cook 1 minute until fragrant.",
+            "Add shrimp, season with salt and pepper, and cook 2 minutes per side until opaque and pink.",
+            "Stir in parsley, remove from heat.",
+            "Serve shrimp atop rice with lemon wedges on the side."
+        ],
+        "image": "/static/images/garlic_butter_shrimp.png",
+        "reviews": [
+            {
+                "user": "ethan",
+                "rating": 4,
+                "comment": "is cooked",
+                "date": "2025-08-09"
+            },
+            {
+                "user": "ethan",
+                "rating": 5,
+                "comment": "im the goat",
+                "date": "2025-08-09"
+            },
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "is fat",
+                "date": "2025-07-10"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Gluten-Free",
+            "Quick",
+            "Rice",
+            "Seafood"
+        ],
+        "avg_rating": 4.67
+    },
+    {
+        "id": 6,
+        "name": "Veggie-Loaded Frittata",
+        "description": "Oven-baked eggs studded with seasonal veggies and melty cheese—perfect for breakfast or a light dinner.",
+        "ingredients": [
+            "6 large eggs",
+            "3 tbsp milk or cream",
+            "1 cup spinach leaves, chopped",
+            "½ red bell pepper, diced",
+            "100 g mushrooms, sliced",
+            "50 g cheddar or feta, crumbled",
+            "1 tbsp olive oil",
+            "Salt and pepper"
+        ],
+        "preparation": [
+            "Preheat broiler (grill) to medium.",
+            "In a bowl, whisk eggs with milk, salt, and pepper.",
+            "Heat oil in an oven-safe 20 cm skillet over medium. Saute mushrooms and pepper 4 minutes, add spinach and wilt.",
+            "Pour egg mixture over veggies, sprinkle cheese evenly.",
+            "Cook on stovetop 4 minutes until edges set.",
+            "Transfer under broiler for 3–4 minutes until top is golden and fully set.",
+            "Slice into wedges and serve warm or at room temperature."
+        ],
+        "image": "/static/images/veggie_frittata.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "better than i thought. and this is coming from a casserole hater",
+                "date": "2025-07-10"
+            },
+            {
+                "user": "b",
+                "rating": 5,
+                "comment": "good",
+                "date": "2025-07-10"
+            }
+        ],
+        "tags": [
+            "Breakfast",
+            "Egg-based",
+            "Quick",
+            "Vegetarian"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 7,
+        "name": "Smash Burger & Fries",
+        "description": "Crispy-edged smashed beef patty on a toasted bun, topped with melty cheese, lettuce, tomato, burger sauce, and served with golden fries.",
+        "ingredients": [
+            "2 soft burger buns, lightly buttered",
+            "250 g ground beef (80/20 blend), formed into two loose 125 g balls",
+            "2 slices American or cheddar cheese",
+            "2 lettuce leaves",
+            "2 tomato slices",
+            "2 tbsp burger sauce (mayo + ketchup + pickle brine + a pinch of smoked paprika)",
+            "1 small onion, thinly sliced (for caramelizing; optional)",
+            "2 rashers of bacon, cooked until crisp (optional)",
+            "1 large egg, poached (optional)",
+            "Salt and pepper",
+            "Oil or butter (for pan and buns)",
+            "300 g frozen or fresh fries"
+        ],
+        "preparation": [
+            "Preheat a heavy skillet or griddle over high heat. Season beef balls with salt and pepper.",
+            "If using caramelized onions, sweat onions in a bit of oil over medium heat until deep golden, then remove.",
+            "Place beef balls on the hot surface, smash flat with a heavy spatula, and season again. Cook 2 minutes until crispy edges form.",
+            "Flip, top each patty immediately with a cheese slice, and cook another 1 minute. Remove patties.",
+            "Toast buns face-down in the same pan until golden.",
+            "In a small pan, cook fries according to package or your preferred method until crisp and golden. Season with salt.",
+            "Assemble burgers: spread burger sauce on both bun halves, layer lettuce, tomato, cheese-topped patties, then bacon, onions, and poached egg if using.",
+            "Serve with fries on the side and extra sauce for dipping."
+        ],
+        "image": "/static/images/smash_burger_fries.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "I accidentally smashed the patty to a Planck length, so I had to make 7,430,000,000,000,000,000,000,000,000,000,000 patties.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "American",
+            "Burger",
+            "Fried",
+            "Lunch",
+            "Sandwich"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 8,
+        "name": "Authentic Shoyu Ramen",
+        "description": "Clear, savory soy-flavored broth with tender noodles and classic toppings like chashu, ajitame, menma, scallions, and nori.",
+        "ingredients": [
+            "1.5 kg chicken carcasses or wings",
+            "10 g dried kombu",
+            "15 g katsuobushi (bonito flakes)",
+            "20 g dried niboshi (optional)",
+            "2 L cold water",
+            "120 ml soy sauce",
+            "60 ml mirin",
+            "30 ml sake",
+            "1 tbsp sugar",
+            "400 g fresh medium-thin ramen noodles",
+            "Chashu pork slices",
+            "Ajitsuke tamago (marinated soft-boiled egg)",
+            "Menma (bamboo shoots)",
+            "Sliced nori",
+            "Thinly sliced scallions",
+            "Drizzle of lard or aromatic oil (optional)"
+        ],
+        "preparation": [
+            "Soak kombu in cold water in the refrigerator for 8–12 hours.",
+            "In a large pot, bring chicken carcasses (and niboshi if using) to a gentle boil, skim scum, then reduce heat and simmer for 2 hours.",
+            "Remove solids, stir in katsuobushi off-heat for 5 minutes, then strain to yield a clear broth.",
+            "In a small saucepan, combine soy sauce, mirin, sake, and sugar; simmer 2 minutes until slightly thickened, then cool (this is your tare).",
+            "Roll, tie, and sear a pork belly slab; transfer to a pot with soy sauce, mirin, sake, water, garlic, and ginger, then simmer 1.5 hours until tender; cool in its braising liquid (chashu).",
+            "Soft-boil eggs for 6 minutes, plunge into an ice bath, peel, and marinate in equal parts soy sauce and mirin (plus a splash of water) for 4–12 hours (ajitsuke tamago).",
+            "For each bowl, spoon 1 tbsp tare, ladle in 300 ml hot broth, and stir to dissolve.",
+            "Cook noodles in boiling water about 60 seconds until al dente; drain and divide between bowls.",
+            "Top with chashu slices, halved ajitsuke tamago, menma, scallions, nori, and an optional drizzle of lard or aromatic oil."
+        ],
+        "image": "/static/images/shoyu_ramen.png",
+        "reviews": [
+            {
+                "user": "abc",
+                "rating": 5,
+                "comment": "im hungry",
+                "date": "2025-08-31"
+            },
+            {
+                "user": "a",
+                "rating": 4,
+                "comment": "im a piece of beef",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Japanese",
+            "Noodles",
+            "Soup"
+        ],
+        "avg_rating": 4.5
+    },
+    {
+        "id": 9,
+        "name": "Shrimp Pad Thai",
+        "description": "Stir-fried rice noodles with shrimp, eggs, and a balanced tamarind-fish-sauce blend, topped with peanuts, bean sprouts, scallions, cilantro, and lime.",
+        "ingredients": [
+            "200 g dried rice stick noodles",
+            "2 tbsp vegetable oil",
+            "3 cloves garlic, minced",
+            "2 shallots, sliced",
+            "200 g shrimp (peeled & deveined)",
+            "2 eggs, beaten",
+            "3 tbsp tamarind paste dissolved in 3 tbsp hot water",
+            "2 tbsp fish sauce",
+            "1 tbsp light soy sauce",
+            "1 tbsp palm sugar",
+            "1 tsp chili flakes (optional)",
+            "¼ cup crushed roasted peanuts",
+            "½ cup bean sprouts",
+            "2 scallions, sliced",
+            "Handful of fresh cilantro, chopped",
+            "Lime wedges, to serve"
+        ],
+        "preparation": [
+            "Soak noodles in warm water until pliable; drain.",
+            "Whisk together tamarind paste, fish sauce, soy sauce, sugar, and chili flakes; set aside.",
+            "Heat oil in a wok over high heat; stir-fry garlic and shallots until fragrant.",
+            "Push aromatics to the side, add beaten eggs, scramble until just set, then mix with aromatics.",
+            "Add shrimp; cook until opaque.",
+            "Add noodles and sauce; toss to coat evenly.",
+            "Stir in bean sprouts, scallions, and cilantro; cook 1 more minute.",
+            "Serve immediately, garnished with peanuts and lime wedges."
+        ],
+        "image": "/static/images/shrimp_pad_thai.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 2,
+                "comment": "I didn't add any shrimp and didn't taste any shrimp in the dish, must have cooked out.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Gluten-Free",
+            "Noodles",
+            "Seafood",
+            "Stir-Fry",
+            "Thai"
+        ],
+        "avg_rating": 2.0
+    },
+    {
+        "id": 10,
+        "name": "Classic Margherita Pizza",
+        "description": "Thin-crust pizza topped with tomato sauce, fresh mozzarella, basil leaves, and a drizzle of olive oil.",
+        "ingredients": [
+            "1 batch pizza dough (enough for one 12–14\" round)",
+            "200 g canned San Marzano tomatoes, crushed",
+            "1 clove garlic, minced",
+            "1 tbsp extra-virgin olive oil, plus extra for drizzling",
+            "200 g fresh mozzarella, torn into pieces",
+            "Handful fresh basil leaves",
+            "Salt and freshly ground black pepper",
+            "Semolina or cornmeal (for dusting)"
+        ],
+        "preparation": [
+            "Preheat oven to 250 °C (475 °F) with a pizza stone or inverted baking sheet inside.",
+            "In a bowl, mix crushed tomatoes with garlic, 1 tbsp olive oil, a pinch of salt, and pepper ; set aside.",
+            "On a lightly floured surface, stretch or roll dough into a 12–14\" round, leaving a slightly thicker edge.",
+            "Dust a pizza peel with semolina or cornmeal, transfer the dough onto it, and spread tomato sauce evenly, leaving the rim bare.",
+            "Top with torn mozzarella pieces and a light drizzle of olive oil.",
+            "Slide pizza onto the preheated stone; bake 7–10 minutes until crust is golden and cheese bubbling.",
+            "Remove from oven and immediately scatter fresh basil leaves on top.",
+            "Let rest 1–2 minutes, slice, and serve hot—with an extra drizzle of olive oil if desired."
+        ],
+        "image": "/static/images/margherita_pizza.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 4,
+                "comment": "Instructions unclear, accidentally made the drink.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Italian",
+            "Pizza",
+            "Vegetarian"
+        ],
+        "avg_rating": 4.0
+    },
+    {
+        "id": 11,
+        "name": "Nashville Hot Chicken",
+        "description": "Buttermilk-brined, crispy fried chicken pieces lacquered in a fiery cayenne-butter paste, served on white bread with pickle chips.",
+        "ingredients": [
+            "1 kg chicken pieces (wings, thighs, or drumsticks)",
+            "4 cups buttermilk",
+            "2 tbsp hot sauce",
+            "1 tsp salt (for brine)",
+            "2 cups all-purpose flour",
+            "2 tbsp cayenne pepper",
+            "1 tbsp paprika",
+            "1 tsp garlic powder",
+            "1 tsp salt (for dredge)",
+            "1 cup lard or vegetable oil (for frying)",
+            "6 tbsp cayenne pepper (for paste)",
+            "2 tbsp dark brown sugar",
+            "1 tsp chili powder",
+            "1 tsp garlic powder",
+            "1 tsp paprika",
+            "White sandwich bread slices",
+            "Pickle chips"
+        ],
+        "preparation": [
+            "Brine chicken in buttermilk mixed with hot sauce and 1 tsp salt for 4–12 hours in the fridge.",
+            "In a shallow bowl, whisk flour with 2 tbsp cayenne, 1 tbsp paprika, 1 tsp garlic powder, and 1 tsp salt.",
+            "Heat lard or oil in a heavy pot to 175°C (350°F).",
+            "Shake excess brine from chicken and dredge pieces thoroughly in seasoned flour.",
+            "Fry chicken in batches until golden and cooked through (internal temp 75°C), about 12–15 minutes. Drain on a rack.",
+            "In a bowl, whisk 1 cup of hot frying fat with 6 tbsp cayenne, 2 tbsp brown sugar, 1 tsp chili powder, 1 tsp garlic powder, and 1 tsp paprika to make the spicy paste.",
+            "Brush or ladle the hot paste evenly over each fried chicken piece.",
+            "Serve chicken on white bread slices topped with pickle chips."
+        ],
+        "image": "/static/images/nashville_hot_chicken.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 4,
+                "comment": "I'm from Nashville, and these are really good even for my standards.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "American",
+            "Chicken",
+            "Fried",
+            "Sandwich",
+            "Spicy"
+        ],
+        "avg_rating": 4.0
+    },
+    {
+        "id": 12,
+        "name": "Philly Cheesesteak",
+        "description": "Thinly sliced ribeye steak with melted cheese in a toasted hoagie roll, optionally loaded with sauteed onions and bell peppers.",
+        "ingredients": [
+            "2 hoagie rolls",
+            "300 g ribeye steak, thinly sliced against the grain",
+            "1 small yellow onion, thinly sliced (optional)",
+            "½ green bell pepper, thinly sliced (optional)",
+            "2 tbsp vegetable oil or butter",
+            "100 g Cheez Whiz or 4 slices provolone cheese",
+            "Salt and freshly ground black pepper",
+            "Optional: sliced mushrooms, hot sauce"
+        ],
+        "preparation": [
+            "Heat 1 tbsp oil or butter in a skillet over medium heat. Add onions (and peppers/mushrooms if using) and saute until soft and lightly browned. Remove and set aside.",
+            "Increase heat to medium-high, add remaining oil, season steak with salt and pepper, and cook in batches just until browned, about 1–2 minutes.",
+            "Lower heat to medium, return veggies to skillet, mix with steak, then distribute cheese evenly over the top. Cover pan briefly until cheese melts.",
+            "Meanwhile, split hoagie rolls and toast cut sides lightly in another pan or under a broiler.",
+            "Scoop the cheesy steak-and-veggie mixture into each roll, pressing gently so the cheese binds the filling.",
+            "Serve hot, with optional hot sauce on the side."
+        ],
+        "image": "/static/images/philly_cheesesteak.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "Hi, I'm Phily.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "American",
+            "Beef",
+            "Dinner",
+            "Sandwich"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 13,
+        "name": "Butter Chicken",
+        "description": "Tender marinated chicken simmered in a rich, creamy tomato-based curry spiced with garam masala and fenugreek.",
+        "ingredients": [
+            "500 g boneless chicken thighs, cut into bite-sized pieces",
+            "150 g plain yogurt",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp chili powder",
+            "1 tsp turmeric",
+            "Salt, to taste",
+            "3 tbsp butter",
+            "1 tbsp vegetable oil",
+            "1 large onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 tbsp fresh ginger, minced",
+            "200 g canned crushed tomatoes",
+            "100 ml water or chicken stock",
+            "150 ml heavy cream",
+            "1 tsp garam masala",
+            "1 tsp dried fenugreek leaves (kasuri methi)",
+            "2 tbsp fresh cilantro, chopped (for garnish)"
+        ],
+        "preparation": [
+            "In a bowl, whisk yogurt with ginger-garlic paste, chili powder, turmeric, and salt. Add chicken, toss to coat, and marinate for at least 1 hour (or overnight).",
+            "Heat oil in a large skillet over medium heat. Add onion and cook until golden brown, about 6–8 minutes.",
+            "Stir in garlic and ginger; cook for 1 minute until fragrant.",
+            "Add crushed tomatoes and water (or stock). Bring to a simmer and cook 5 minutes to thicken slightly.",
+            "Stir in garam masala and fenugreek leaves, then add butter pieces, stirring until melted into the sauce.",
+            "Add marinated chicken (with any leftover marinade), cover, reduce heat to low, and simmer for 15–20 minutes until chicken is cooked through.",
+            "Pour in heavy cream, stir gently, and cook 2 more minutes. Taste and adjust salt or spice if needed.",
+            "Garnish with chopped cilantro and serve hot alongside steamed rice or warm naan."
+        ],
+        "image": "/static/images/butter_chicken.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 3,
+                "comment": "Too much hydrogen for me.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Chicken",
+            "Curry",
+            "Dinner",
+            "Indian"
+        ],
+        "avg_rating": 3.0
+    },
+    {
+        "id": 14,
+        "name": "Moroccan Lamb Tagine",
+        "description": "Slow-cooked lamb with apricots, almonds, and warm spices in a fragrant, savory-sweet stew served over fluffy couscous.",
+        "ingredients": [
+            "800 g lamb shoulder, cut into 3 cm cubes",
+            "2 tbsp olive oil",
+            "1 large onion, finely chopped",
+            "3 cloves garlic, minced",
+            "2 tsp ground cumin",
+            "2 tsp ground coriander",
+            "1 tsp ground cinnamon",
+            "½ tsp ground ginger",
+            "½ tsp turmeric",
+            "Salt and pepper, to taste",
+            "200 g dried apricots, halved",
+            "50 g blanched almonds, toasted",
+            "400 ml chicken stock",
+            "1 tbsp honey",
+            "Zest of 1 orange",
+            "300 g couscous"
+        ],
+        "preparation": [
+            "Heat olive oil in a heavy pot over medium heat. Season lamb with salt and pepper and brown in batches; transfer to a plate.",
+            "Add onion to the pot and saute 5 minutes until softened. Stir in garlic and spices; cook 1 minute until fragrant.",
+            "Return lamb, pour in stock and honey, bring to a simmer. Cover and cook on low for 1½ hours, stirring halfway.",
+            "Stir in apricots, orange zest, and half the almonds; simmer uncovered 20 minutes until sauce is glossy and lamb is tender.",
+            "Meanwhile, place couscous in a bowl, cover with boiling salted water by 1 cm, cover and let steam 5 minutes. Fluff with a fork.",
+            "Serve tagine over couscous, sprinkled with remaining almonds and chopped cilantro."
+        ],
+        "image": "/static/images/moroccan_lamb_tagine.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "As Mocorro's president, I approve of this Tangie",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Gluten-Free",
+            "Lamb",
+            "Moroccan",
+            "Stew"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 15,
+        "name": "Korean Fried Chicken",
+        "description": "Crispy double-fried chicken wings glazed in a sweet-spicy gochujang sauce, topped with sesame seeds and scallions.",
+        "ingredients": [
+            "1 kg chicken wings or drumettes, tips removed and split",
+            "200 g potato starch",
+            "Salt and pepper",
+            "Vegetable oil for frying (about 2 L)",
+            "3 tbsp gochujang",
+            "2 tbsp soy sauce",
+            "2 tbsp rice vinegar",
+            "2 tbsp honey",
+            "1 tbsp sesame oil",
+            "2 cloves garlic, minced",
+            "1 tsp grated ginger",
+            "1 tbsp toasted sesame seeds",
+            "2 scallions, sliced on the bias"
+        ],
+        "preparation": [
+            "Pat chicken dry, season with salt and pepper, and toss in potato starch; shake off excess.",
+            "Heat oil to 160 °C (320 °F). Fry wings 8 minutes until pale and cooked through; drain on a rack.",
+            "Increase oil to 190 °C (375 °F). Fry again 3–4 minutes until golden and extra crispy; drain.",
+            "In a small saucepan, whisk gochujang, soy sauce, vinegar, honey, sesame oil, garlic, and ginger. Simmer 2 minutes.",
+            "Toss hot chicken in the glaze, then plate and sprinkle with sesame seeds and scallions."
+        ],
+        "image": "/static/images/korean_fried_chicken.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "Tasted too much like chicken.",
+                "date": "2025-07-12"
+            },
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "Apple cream.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Chicken",
+            "Dinner",
+            "Fried",
+            "Korean",
+            "Spicy"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 16,
+        "name": "Spinach & Ricotta Stuffed Shells",
+        "description": "Jumbo pasta shells filled with creamy ricotta and sauteed spinach, baked in marinara and topped with mozzarella.",
+        "ingredients": [
+            "12 jumbo pasta shells",
+            "300 g fresh spinach, chopped",
+            "2 tbsp olive oil",
+            "1 small onion, finely chopped",
+            "2 cloves garlic, minced",
+            "250 g ricotta cheese",
+            "1 egg, beaten",
+            "50 g Parmesan, grated",
+            "400 g marinara sauce",
+            "150 g mozzarella, shredded",
+            "Fresh basil leaves"
+        ],
+        "preparation": [
+            "Preheat oven to 180 °C (350 °F). Cook shells until al dente; drain.",
+            "Heat oil in a skillet, saute onion 5 minutes, add garlic and spinach until wilted; cool slightly.",
+            "Mix spinach mixture with ricotta, egg, and Parmesan; season.",
+            "Spread half the marinara in a dish, stuff shells with filling, arrange seam-side up.",
+            "Pour remaining sauce over, sprinkle mozzarella, cover with foil, and bake 20 minutes.",
+            "Remove foil, bake 5 more minutes until golden, then garnish with basil."
+        ],
+        "image": "/static/images/spinach_ricotta_shells.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 3,
+                "comment": "Made me gain 10 pounds.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Bake",
+            "Dinner",
+            "Italian",
+            "Pasta",
+            "Vegetarian"
+        ],
+        "avg_rating": 3.0
+    },
+    {
+        "id": 17,
+        "name": "Grilled Halloumi & Couscous Salad",
+        "description": "Charred halloumi slices atop lemony couscous with cherry tomatoes, cucumbers, and honey-mint dressing.",
+        "ingredients": [
+            "200 g halloumi, sliced 1 cm thick",
+            "200 g couscous",
+            "250 ml boiling water",
+            "1 tbsp olive oil",
+            "Juice and zest of 1 lemon",
+            "250 g cherry tomatoes, halved",
+            "1 cucumber, diced",
+            "2 tbsp fresh mint, chopped",
+            "1 tbsp honey",
+            "1 tbsp white wine vinegar",
+            "Salt and pepper"
+        ],
+        "preparation": [
+            "Place couscous in a bowl; drizzle lemon juice and oil, season, pour hot water, cover 5 minutes, then fluff.",
+            "Whisk honey, vinegar, remaining oil, mint, salt, and pepper for dressing.",
+            "Toss tomatoes and cucumber into couscous with half the dressing.",
+            "Grill halloumi 2 minutes per side until golden charred.",
+            "Serve salad topped with halloumi and drizzle with remaining dressing."
+        ],
+        "image": "/static/images/grilled_halloumi_couscous.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 3,
+                "comment": "Needs some protein.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Greek",
+            "Grilled",
+            "Salad",
+            "Vegetarian"
+        ],
+        "avg_rating": 3.0
+    },
+    {
+        "id": 18,
+        "name": "Tex-Mex Beef Tacos",
+        "description": "Seasoned ground beef in warm corn tortillas, topped with lettuce, cheddar, salsa, and sour cream.",
+        "ingredients": [
+            "8 corn tortillas",
+            "400 g ground beef",
+            "1 tbsp oil",
+            "1 small onion, diced",
+            "2 tsp chili powder",
+            "1 tsp ground cumin",
+            "½ tsp paprika",
+            "Salt and pepper",
+            "100 g cheddar, shredded",
+            "Lettuce, shredded",
+            "Salsa",
+            "Sour cream",
+            "Cilantro",
+            "Lime wedges"
+        ],
+        "preparation": [
+            "Heat oil, saute onion until soft, add beef, cook until browned.",
+            "Stir in spices, season, cook 2 more minutes.",
+            "Warm tortillas, fill with beef, lettuce, cheese, salsa, sour cream; garnish with cilantro and lime."
+        ],
+        "image": "/static/images/tex_mex_beef_tacos.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "Who is Tex and why is he Mexing.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Beef",
+            "Lunch",
+            "Mexican",
+            "Taco"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 19,
+        "name": "Thai Green Curry with Tofu",
+        "description": "Aromatic green curry with tofu, eggplant, bamboo shoots, and bell pepper simmered in coconut milk and Thai basil.",
+        "ingredients": [
+            "2 tbsp oil",
+            "3 tbsp green curry paste",
+            "400 ml coconut milk",
+            "200 g firm tofu, cubed",
+            "1 small eggplant, diced",
+            "100 g bamboo shoots",
+            "1 red bell pepper, sliced",
+            "2 tbsp fish sauce",
+            "1 tbsp palm sugar",
+            "Handful Thai basil",
+            "Cooked jasmine rice"
+        ],
+        "preparation": [
+            "Heat oil, fry curry paste 1 minute, add half the coconut milk, simmer to dissolve paste.",
+            "Add tofu, eggplant, shoots, and pepper; cook 5–7 minutes.",
+            "Stir in remaining coconut milk, fish sauce, sugar; simmer 2 minutes.",
+            "Remove from heat, stir in basil, serve over rice."
+        ],
+        "image": "/static/images/thai_green_curry_tofu.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 1,
+                "comment": "Too green for me.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Curry",
+            "Dinner",
+            "Thai",
+            "Tofu",
+            "Vegetarian"
+        ],
+        "avg_rating": 1.0
+    },
+    {
+        "id": 20,
+        "name": "BBQ Pulled Pork Sandwich",
+        "description": "Slow-roasted pulled pork slathered in tangy BBQ sauce, served on a toasted bun with creamy coleslaw.",
+        "ingredients": [
+            "1.2 kg pork shoulder",
+            "2 tbsp brown sugar",
+            "1 tbsp smoked paprika",
+            "1 tsp garlic powder",
+            "Salt and pepper",
+            "200 ml apple juice",
+            "200 ml BBQ sauce",
+            "4 buns",
+            "200 g coleslaw mix",
+            "3 tbsp mayonnaise",
+            "1 tbsp apple cider vinegar",
+            "1 tsp sugar"
+        ],
+        "preparation": [
+            "Rub pork with spices, roast covered at 150 °C for 4 h with apple juice until tender.",
+            "Mix coleslaw ingredients, chill.",
+            "Shred pork, toss with BBQ sauce.",
+            "Toast buns, assemble with pork and coleslaw."
+        ],
+        "image": "/static/images/bbq_pulled_pork_sandwich.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 1,
+                "comment": "I live on Venus, the local supermarket doesn't have any of these ingredients.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "American",
+            "Dinner",
+            "Pork",
+            "Sandwich"
+        ],
+        "avg_rating": 1.0
+    },
+    {
+        "id": 21,
+        "name": "Eggplant Parmesan",
+        "description": "Crispy breaded eggplant layered with marinara and mozzarella, baked until bubbly and golden.",
+        "ingredients": [
+            "2 eggplants, sliced 1 cm thick",
+            "Salt",
+            "2 eggs, beaten",
+            "150 g breadcrumbs",
+            "50 g Parmesan, grated",
+            "200 ml marinara sauce",
+            "150 g mozzarella, shredded",
+            "Oil for frying",
+            "Fresh basil"
+        ],
+        "preparation": [
+            "Salt eggplant slices, rest 30 min, rinse, pat dry.",
+            "Dip in egg, coat in breadcrumbs mixed with half Parmesan.",
+            "Fry until golden, drain.",
+            "Layer sauce, eggplant, cheese in a dish, bake 25 min at 180 °C, garnish basil."
+        ],
+        "image": "/static/images/eggplant_parmesan.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 4,
+                "comment": "I hate eggplant just like how I hate your existance.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Bake",
+            "Dinner",
+            "Italian",
+            "Vegetarian"
+        ],
+        "avg_rating": 4.0
+    },
+    {
+        "id": 22,
+        "name": "Teriyaki Salmon Bowl",
+        "description": "Grilled salmon glazed in sweet-savory teriyaki sauce over rice with steamed broccoli, carrots, and pickled ginger.",
+        "ingredients": [
+            "2 salmon fillets",
+            "3 tbsp teriyaki sauce",
+            "1 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "300 g rice",
+            "150 g broccoli",
+            "1 carrot, julienned",
+            "Pickled ginger",
+            "Sesame seeds",
+            "Scallions"
+        ],
+        "preparation": [
+            "Marinate salmon 15 min in sauces and oil.",
+            "Steam veggies until tender.",
+            "Grill salmon 4 min skin-side down, 2 min flip.",
+            "Assemble bowls with rice, veggies, salmon; garnish."
+        ],
+        "image": "/static/images/teriyaki_salmon_bowl.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 1,
+                "comment": "No one told me there was salmon in this dish, I ate it and had a severe allergic reaction, and had to go to venus.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Bowl",
+            "Dinner",
+            "Gluten-Free",
+            "Grilled",
+            "Japanese",
+            "Seafood"
+        ],
+        "avg_rating": 1.0
+    },
+    {
+        "id": 23,
+        "name": "Butternut Squash Soup",
+        "description": "Velvety roasted butternut squash blended with onions, garlic, and a hint of nutmeg served warm with crusty bread.",
+        "ingredients": [
+            "1 butternut squash, cubed",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 L stock",
+            "½ tsp nutmeg",
+            "Salt and pepper",
+            "100 ml cream (optional)",
+            "Crusty bread",
+            "Parsley"
+        ],
+        "preparation": [
+            "Roast squash tossed in oil at 200 °C for 25 min.",
+            "Saute onion and garlic in a pot, add squash, stock, and nutmeg; simmer 10 min.",
+            "Blend until smooth, stir in cream if using, season and serve with bread and parsley."
+        ],
+        "image": "/static/images/butternut_squash_soup.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 5,
+                "comment": "The butter was too buttery, the nut was too nutty, the squash almost squahed me, the soup tried to drown me. Would make again.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Dinner",
+            "Gluten-Free",
+            "Soup",
+            "Vegetarian"
+        ],
+        "avg_rating": 5.0
+    },
+    {
+        "id": 25,
+        "name": "Vietnamese Phá»Ÿ BÃ²",
+        "description": "A fragrant, spice-perfumed beef broth served over rice noodles and thinly sliced beef, garnished with fresh herbs and lime.",
+        "ingredients": [
+            "2 kg beef marrow and knuckle bones",
+            "500 g beef brisket or oxtail (optional)",
+            "1 large yellow onion, halved",
+            "1 (5 cm) piece fresh ginger, halved lengthwise",
+            "5 star anise pods",
+            "4 cloves",
+            "1 cinnamon stick",
+            "2 green cardamom pods, lightly crushed",
+            "1 tsp coriander seeds",
+            "1 tbsp kosher salt",
+            "1 tbsp rock sugar or granulated sugar",
+            "½ cup fish sauce",
+            "400 g dried flat rice noodles (bánh phở)",
+            "300 g beef eye-round or sirloin, very thinly sliced",
+            "1 small white onion, thinly sliced",
+            "3 scallions, white and green parts sliced on the bias",
+            "Handful fresh cilantro leaves",
+            "Handful Thai basil leaves",
+            "1 cup bean sprouts",
+            "2 limes, cut into wedges",
+            "Hoisin sauce and Sriracha, to serve"
+        ],
+        "preparation": [
+            "Preheat your broiler. Place onion and ginger on a baking sheet and broil 5–7 minutes, turning once, until charred in spots. Rinse under warm water to remove loose skins, then set aside.",
+            "In a large stockpot, cover beef bones (and brisket/oxtail if using) with cold water. Bring to a rolling boil for 10 minutes, skim off any scum, then drain and rinse bones under running water.",
+            "Return cleaned bones (and meat) to the pot. Add 4–5 L fresh water, charred onion and ginger, star anise, cloves, cinnamon, cardamom, and coriander seeds in a spice sachet or cheesecloth. Bring to a gentle simmer over medium, then reduce heat to low.",
+            "Simmer partially covered for 6 hours (if using brisket, remove it after 1½ hours, slice, and reserve). During the first hour, skim foam every 15 minutes to keep broth clear.",
+            "After 6 hours, remove bones and spices. Season broth with salt, sugar, and fish sauce to taste. Strain through a fine-mesh strainer into a clean pot; keep hot.",
+            "Meanwhile, prepare noodles: soak or blanch rice noodles according to package instructions until just pliable, then drain and set in warmed bowls.",
+            "Divide raw sliced eye-round (and reserved brisket, if using) over noodles. Top with sliced white onion and scallion whites.",
+            "Ladle piping-hot broth directly over the meat so it cooks through. Garnish with scallion greens, cilantro, Thai basil, and bean sprouts.",
+            "Serve immediately with lime wedges, hoisin sauce, and Sriracha on the side for individual seasoning."
+        ],
+        "image": "/static/images/pho_bo.png",
+        "reviews": [
+            {
+                "user": "a",
+                "rating": 1,
+                "comment": "I substituted the toppings for some minced rebar and the broth for diesel puree; it was disgusting.",
+                "date": "2025-07-12"
+            }
+        ],
+        "tags": [
+            "Beef",
+            "Dinner",
+            "Noodles",
+            "Soup",
+            "Vietnamese"
+        ],
+        "avg_rating": 1.0
+    }
+]
