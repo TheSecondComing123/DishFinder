@@ -21,14 +21,14 @@ from data.constants import (
     DISH_REVIEWS,
 )
 
-# ── App Setup ─────────────────────────────────────────────────────
+# App Setup
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET", "supersecretkey")
 
 login_manager = LoginManager(app)
-login_manager.login_view = "login"
+login_manager.login_view = "login"  # pyright: ignore[reportAttributeAccessIssue]
 
-# ── File Paths ────────────────────────────────────────────────────
+# File Paths
 BASE_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(BASE_DIR, "data")
 USERS_DIR = os.path.join(BASE_DIR, "users")
@@ -40,7 +40,7 @@ DISHES_PATH = os.path.join(DATA_DIR, "dishes.json")
 USERS_PATH = os.path.join(USERS_DIR, "users.json")
 
 
-# ── Type Hints ─────────────────────────────────────────────────────
+# Type Hints
 class Review(TypedDict):
     user: str
     rating: int
@@ -57,6 +57,7 @@ class Dish(TypedDict):
     preparation: List[str]
     tags: List[str]
     reviews: List[Review]
+    avg_rating: Optional[float]
 
 
 class UserData(TypedDict):
@@ -65,7 +66,7 @@ class UserData(TypedDict):
     password: str
 
 
-# ── JSON Utilities ────────────────────────────────────────────────
+# JSON Utilities
 def load_json(path) -> list:
     if os.path.exists(path) and os.path.getsize(path) > 0:
         with open(path, encoding="utf-8") as f:
@@ -81,7 +82,7 @@ def save_json(path, data) -> None:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
-# ── Load Data ─────────────────────────────────────────────────────
+# Load Data
 dishes: List[Dish] = load_json(DISHES_PATH)
 users: List[UserData] = load_json(USERS_PATH)
 
@@ -96,7 +97,7 @@ for dish in dishes:
     dish[DISH_REVIEWS].sort(key=lambda r: r["date"], reverse=True)
 
 
-# ── Helpers ───────────────────────────────────────────────────────
+# Helpers
 def get_user_by_username(username: str) -> Optional[UserData]:
     return next((u for u in users if u[USERNAME] == username), None)
 
@@ -126,7 +127,7 @@ def search_dishes(query: str) -> List[Dish]:
     return result
 
 
-# ── User Class ────────────────────────────────────────────────────
+# User Class
 class User(UserMixin):
     def __init__(self, id, username, password):
         self.id = id
@@ -140,7 +141,7 @@ def load_user(user_id: str) -> Optional[User]:
     return User(**user) if user else None
 
 
-# ── Routes ────────────────────────────────────────────────────────
+# Routes
 @app.route("/")
 def index():
     return render_template("index.html", dishes=dishes)
@@ -265,7 +266,7 @@ def logout():
     return redirect(url_for("index"))
 
 
-# ── Debug Route (Safe) ─────────────────────────────────────────────
+# Debug Route (Safe)
 @app.route("/admin/raw")
 def admin_raw():
     if not app.debug:
@@ -273,6 +274,6 @@ def admin_raw():
     return {"dishes": dishes, "users": users}
 
 
-# ── Main ──────────────────────────────────────────────────────────
+# Main
 if __name__ == "__main__":
     app.run(debug=True)
