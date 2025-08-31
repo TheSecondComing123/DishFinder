@@ -17,12 +17,19 @@
                     <p class="card-text mb-4"><em>{{ dish.description }}</em></p>
                     
                     <!-- Rating Display -->
-                    {% if dish.avg_rating %}
-                    <div class="text-center mb-3">
-                        <span class="badge badge-success badge-lg">
-                            ⭐ {{ "%.1f"|format(dish.avg_rating) }} 
-                            ({{ dish.reviews|length }} review{{ 's' if dish.reviews|length != 1 else '' }})
-                        </span>
+                    {% if dish.avg_rating and dish.avg_rating > 0 %}
+                    <div class="dish-detail-rating">
+                        <div class="rating-badge">
+                            <span class="star">⭐</span>
+                            {{ "%.1f"|format(dish.avg_rating) }}
+                            <span class="count">({{ dish.reviews|length }} review{{ 's' if dish.reviews|length != 1 else '' }})</span>
+                        </div>
+                    </div>
+                    {% elif dish.reviews|length == 0 %}
+                    <div class="dish-detail-rating">
+                        <div class="no-rating">
+                            <i class="fas fa-star mr-1"></i>No reviews yet - be the first!
+                        </div>
                     </div>
                     {% endif %}
                     
