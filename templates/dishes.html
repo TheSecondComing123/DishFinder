@@ -21,7 +21,17 @@
             </div>
         </div>
 
-        <!-- Tag Filter Section - Now tags modify the search input -->
+        <!-- Sort Options -->
+        <div class="mt-3 mb-3">
+            <label for="sort" class="mr-2">Sort by:</label>
+            <select name="sort" id="sort" class="form-control d-inline-block" style="width: auto;" onchange="this.form.submit()">
+                <option value="name" {{ 'selected' if current_sort == 'name' else '' }}>Name (A-Z)</option>
+                <option value="rating" {{ 'selected' if current_sort == 'rating' else '' }}>Rating (High to Low)</option>
+                <option value="newest" {{ 'selected' if current_sort == 'newest' else '' }}>Newest First</option>
+            </select>
+        </div>
+
+        <!-- Tag Filter Section -->
         <div class="mt-3">
             <h5 class="mb-3">Filter by Tags:</h5>
             <div class="d-flex flex-wrap">
@@ -51,13 +61,27 @@
                     <h5 class="card-title">{{ dish.name }}</h5>
                     <p class="card-text text-muted flex-grow-1">{{ dish.description or "No description available." }}</p>
 
-                    <!-- Tags Display -->
+                    <!-- Rating Display -->
+                    {% if dish.avg_rating %}
+                    <div class="mb-2">
+                        <span class="badge badge-warning">
+                            ⭐ {{ "%.1f"|format(dish.avg_rating) }}
+                            {% if dish.reviews %}
+                                ({{ dish.reviews|length }})
+                            {% endif %}
+                        </span>
+                    </div>
+                    {% endif %}
+
+                    <!-- Tags Display - Fixed to use dish.tags instead of dish.get('tags') -->
                     <div class="mb-3">
-                        {% for tag in dish.get('tags', [])[:3] %}
-                        <span class="badge badge-success mr-1 mb-1">{{ tag }}</span>
-                        {% endfor %}
-                        {% if dish.get('tags', [])|length > 3 %}
-                        <span class="badge badge-secondary">+{{ dish.get('tags', [])|length - 3 }}</span>
+                        {% if dish.tags %}
+                            {% for tag in dish.tags[:3] %}
+                            <span class="badge badge-success mr-1 mb-1">{{ tag }}</span>
+                            {% endfor %}
+                            {% if dish.tags|length > 3 %}
+                            <span class="badge badge-secondary">+{{ dish.tags|length - 3 }}</span>
+                            {% endif %}
                         {% endif %}
                     </div>
 
@@ -72,14 +96,24 @@
         {% endfor %}
     </div>
 
-    <!-- Pagination or Results Info -->
+    <!-- Results Info -->
     <div class="text-center text-muted mt-4">
-        Showing {{ dishes|length }} of {{ dishes|length }} dishes
+        Showing {{ dishes|length }} dish{{ 'es' if dishes|length != 1 else '' }}
+        {% if current_search %}
+            for "{{ current_search }}"
+        {% endif %}
     </div>
     {% else %}
     <div class="text-center text-muted mt-5">
         <i class="fas fa-utensils fa-3x mb-3"></i>
-        <p>No dishes found. Try a different search term!</p>
+        {% if current_search %}
+        <p>No dishes found for "{{ current_search }}". Try a different search term!</p>
+        {% else %}
+        <p>No dishes available at the moment.</p>
+        {% endif %}
+        <a href="{{ url_for('list_dishes') }}" class="btn btn-outline-primary mt-3">
+            <i class="fas fa-refresh mr-2"></i>Show All Dishes
+        </a>
     </div>
     {% endif %}
 </div>

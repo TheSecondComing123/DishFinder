@@ -15,40 +15,53 @@
                 <div class="card-body">
                     <h2 class="card-title text-center mb-3">{{ dish.name }}</h2>
                     <p class="card-text mb-4"><em>{{ dish.description }}</em></p>
+                    
+                    <!-- Rating Display -->
+                    {% if dish.avg_rating %}
+                    <div class="text-center mb-3">
+                        <span class="badge badge-success badge-lg">
+                            ⭐ {{ "%.1f"|format(dish.avg_rating) }} 
+                            ({{ dish.reviews|length }} review{{ 's' if dish.reviews|length != 1 else '' }})
+                        </span>
+                    </div>
+                    {% endif %}
+                    
                     <!-- Tag Display -->
-{% if dish.tags %}
-<div class="mb-3">
-    {% for tag in dish.tags %}
-    <span class="badge badge-success mr-1 mb-1">{{ tag }}</span>
-    {% endfor %}
-</div>
-{% endif %}
-
+                    {% if dish.tags %}
+                    <div class="mb-3">
+                        <h6 class="text-muted mb-2">Tags:</h6>
+                        {% for tag in dish.tags %}
+                        <span class="badge badge-success mr-1 mb-1">{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
 
                     <!-- Tabs -->
                     <ul class="nav nav-tabs" id="detailTabs" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab"
                                href="#ingredients" id="ingredients-tab" role="tab">
-                                Ingredients
+                                <i class="fas fa-list mr-1"></i>Ingredients
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab"
                                href="#preparation" id="preparation-tab" role="tab">
-                                Preparation
+                                <i class="fas fa-tasks mr-1"></i>Preparation
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab"
                                href="#reviews" id="reviews-tab" role="tab">
-                                Reviews ({{ dish.reviews|length }})
+                                <i class="fas fa-comments mr-1"></i>Reviews ({{ dish.reviews|length }})
                             </a>
                         </li>
                     </ul>
+                    
                     <div class="tab-content mt-3" id="detailTabsContent">
                         <!-- Ingredients -->
                         <div class="tab-pane fade show active" id="ingredients" role="tabpanel">
+                            {% if dish.ingredients %}
                             <ul class="list-group list-group-flush">
                                 {% for ingredient in dish.ingredients %}
                                 <li class="list-group-item d-flex align-items-start">
@@ -56,79 +69,164 @@
                                 </li>
                                 {% endfor %}
                             </ul>
+                            {% else %}
+                            <p class="text-muted">No ingredients listed.</p>
+                            {% endif %}
                         </div>
 
                         <!-- Preparation -->
                         <div class="tab-pane fade" id="preparation" role="tabpanel">
+                            {% if dish.preparation %}
                             <ol class="list-group list-group-flush">
                                 {% for step in dish.preparation %}
                                 <li class="list-group-item d-flex align-items-start">
-                                    <span class="step mr-2">{{ loop.index }}.</span>{{ step }}
+                                    <span class="step mr-2 badge badge-primary">{{ loop.index }}</span>
+                                    <div>{{ step }}</div>
                                 </li>
                                 {% endfor %}
                             </ol>
+                            {% else %}
+                            <p class="text-muted">No preparation steps listed.</p>
+                            {% endif %}
                         </div>
 
                         <!-- Reviews -->
                         <div class="tab-pane fade" id="reviews" role="tabpanel">
                             {% if dish.reviews %}
-                            {% for review in dish.reviews %}
-                            <div class="review border rounded p-3 mb-3">
-                                <div class="review-header d-flex justify-content-between">
-                                    <div class="review-user">{{ review.user }}</div>
-                                    <div class="review-date text-muted">{{ review.date }}</div>
+                            <div class="mb-4">
+                                {% for review in dish.reviews %}
+                                <div class="review border rounded p-3 mb-3">
+                                    <div class="review-header d-flex justify-content-between align-items-start mb-2">
+                                        <div class="d-flex align-items-center">
+                                            <strong class="review-user text-primary mr-2">{{ review.author.username }}</strong>
+                                            <span class="review-rating badge badge-success">{{ review.rating }} ⭐</span>
+                                        </div>
+                                        <small class="review-date text-muted">{{ review.date.strftime('%B %d, %Y') }}</small>
+                                    </div>
+                                    <div class="review-comment">{{ review.comment }}</div>
+                                    {% if review.author.id == current_user.id %}
+                                    <small class="text-muted mt-2 d-block">
+                                        <i class="fas fa-user mr-1"></i>Your review
+                                    </small>
+                                    {% endif %}
                                 </div>
-                                <div class="review-rating mb-2">{{ review.rating }} ★</div>
-                                <div class="review-comment text-muted">{{ review.comment }}</div>
+                                {% endfor %}
                             </div>
-                            {% endfor %}
                             {% else %}
-                            <p class="text-muted">No reviews yet. Be the first!</p>
+                            <div class="text-center text-muted mb-4">
+                                <i class="fas fa-comments fa-2x mb-2"></i>
+                                <p>No reviews yet. Be the first to review this dish!</p>
+                            </div>
                             {% endif %}
 
-                            <!-- Inline Add-Review Form -->
+                            <!-- Add Review Form -->
+                            {% set user_review = dish.reviews|selectattr('author.id', 'equalto', current_user.id)|first %}
+                            
                             <div class="card mt-4">
-                                <div class="card-header">
-                                    <a aria-expanded="false" class="collapsed" data-toggle="collapse"
-                                       href="#addReviewForm">
-                                        + Add a Review
+                                <div class="card-header bg-light">
+                                    <a class="text-decoration-none" data-toggle="collapse" href="#addReviewForm" 
+                                       aria-expanded="false" aria-controls="addReviewForm">
+                                        <i class="fas fa-plus-circle mr-2"></i>
+                                        {% if user_review %}
+                                            Update Your Review
+                                        {% else %}
+                                            Add a Review
+                                        {% endif %}
                                     </a>
                                 </div>
                                 <div class="collapse" id="addReviewForm">
                                     <div class="card-body">
-                                        <form action="{{ url_for('rate_dish') }}" method="post">
+                                        {% if user_review %}
+                                        <div class="alert alert-info mb-3">
+                                            <i class="fas fa-info-circle mr-2"></i>
+                                            You already reviewed this dish. Submitting will update your existing review.
+                                        </div>
+                                        {% endif %}
+                                        
+                                        <form action="{{ url_for('rate_dish') }}" method="post" novalidate>
                                             <input name="dish_id" type="hidden" value="{{ dish.id }}">
+                                            
                                             <div class="form-row">
                                                 <div class="form-group col-md-6">
-                                                    <label for="rating">Rating (1–5)</label>
-                                                    <input class="form-control" id="rating" max="5"
-                                                           min="1" name="rating" required type="number">
-                                                </div>
-                                                <div class="form-group col-md-6">
-                                                    <label for="user">Name</label>
-                                                    <input class="form-control" id="user" name="user"
-                                                           required type="text">
+                                                    <label for="rating">
+                                                        <i class="fas fa-star mr-1"></i>Rating (1–5 stars)
+                                                    </label>
+                                                    <select class="form-control" id="rating" name="rating" required>
+                                                        <option value="">Choose a rating...</option>
+                                                        {% for i in range(1, 6) %}
+                                                        <option value="{{ i }}" 
+                                                                {% if user_review and user_review.rating == i %}selected{% endif %}>
+                                                            {{ i }} Star{{ 's' if i > 1 else '' }} 
+                                                            {% if i == 1 %}😞{% elif i == 2 %}😕{% elif i == 3 %}😐{% elif i == 4 %}😊{% else %}😍{% endif %}
+                                                        </option>
+                                                        {% endfor %}
+                                                    </select>
                                                 </div>
                                             </div>
+                                            
                                             <div class="form-group">
-                                                <label for="comment">Comment</label>
-                                                <textarea class="form-control" id="comment"
-                                                          name="comment" required rows="3"></textarea>
+                                                <label for="comment">
+                                                    <i class="fas fa-comment mr-1"></i>Your Review
+                                                </label>
+                                                <textarea class="form-control" id="comment" name="comment" 
+                                                         rows="4" required maxlength="1000"
+                                                         placeholder="Share your thoughts about this dish...">{% if user_review %}{{ user_review.comment }}{% endif %}</textarea>
+                                                <small class="form-text text-muted">Maximum 1000 characters</small>
                                             </div>
-                                            <button class="btn btn-success btn-block" type="submit">
-                                                Submit Review
-                                            </button>
+                                            
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <button class="btn btn-success btn-lg" type="submit">
+                                                    <i class="fas fa-paper-plane mr-2"></i>
+                                                    {% if user_review %}Update Review{% else %}Submit Review{% endif %}
+                                                </button>
+                                                
+                                                {% if user_review %}
+                                                <small class="text-muted">
+                                                    <i class="fas fa-clock mr-1"></i>
+                                                    Last updated: {{ user_review.date.strftime('%B %d, %Y') }}
+                                                </small>
+                                                {% endif %}
+                                            </div>
                                         </form>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Inline Form -->
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    
+    <!-- Navigation buttons -->
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <a href="{{ url_for('list_dishes') }}" class="btn btn-outline-secondary btn-block">
+                <i class="fas fa-arrow-left mr-2"></i>Back to All Dishes
+            </a>
+        </div>
+        <div class="col-md-6">
+            <button onclick="window.print()" class="btn btn-outline-primary btn-block">
+                <i class="fas fa-print mr-2"></i>Print Recipe
+            </button>
+        </div>
+    </div>
 </div>
+
+<!-- Print styles -->
+<style>
+@media print {
+    .navbar, .card-footer, .btn, .tab-content .nav-tabs, #addReviewForm { 
+        display: none !important; 
+    }
+    .card { 
+        box-shadow: none !important; 
+        border: 1px solid #ddd !important; 
+    }
+    .tab-content .tab-pane { 
+        display: block !important; 
+        opacity: 1 !important; 
+    }
+}
+</style>
 {% endblock %}
