@@ -30,6 +30,31 @@ except LookupError:
 users = User.query.all()
 dishes = Dish.query.all()
 
+import hashlib
+
+
+def deterministic_mean(dish, base_mean, variance):
+    # Use dish.id or dish.name to create a reproducible seed
+    seed = int(hashlib.sha256(dish.name.encode()).hexdigest(), 16) % (10**8)
+    rng = np.random.default_rng(seed)
+    return min(5, max(1, rng.normal(base_mean, variance)))
+
+
+dish_true_means = {}
+for dish in dishes:
+    if "Italian" in dish.tags:
+        base_mean = deterministic_mean(dish, 4.2, 0.3)
+    elif "Mexican" in dish.tags:
+        base_mean = deterministic_mean(dish, 4.0, 0.4)
+    elif "Indian" in dish.tags:
+        base_mean = deterministic_mean(dish, 3.2, 0.6)
+    elif "American" in dish.tags:
+        base_mean = deterministic_mean(dish, 3.8, 0.4)
+    else:
+        base_mean = deterministic_mean(dish, 3.7, 0.5)
+
+    dish_true_means[dish.id] = base_mean
+
 # Language and vocabulary for reviews
 culinary_terms = [
     "texture",
@@ -224,9 +249,7 @@ def generate_enthusiast_comment(dish, rating):
         occasion=random.choice(occasions),
         timeframe=random.choice(timeframes),
         ingredient=(
-            random.choice(dish_ingredients)[: random.randint(3, 15)]
-            if dish_ingredients
-            else "extra seasoning"
+            random.choice(dish_ingredients) if dish_ingredients else "extra seasoning"
         ),
     )
 
@@ -773,56 +796,33 @@ def generate_organic_date_pattern():
 
 
 # Rating distribution model (varies by dish)
-def generate_rating_distribution(dish):
-    # Base distribution parameters
-    cuisine_type = None
-    for tag in dish.tags:
-        if tag in [
-            "Italian",
-            "Mexican",
-            "Japanese",
-            "Indian",
-            "Chinese",
-            "French",
-            "Thai",
-            "Vietnamese",
-            "Greek",
-            "American",
-        ]:
-            cuisine_type = tag
-            break
+def generate_rating_distribution(dish, persona):
+    """
+    Generate a rating (1–5) based on dish true mean and reviewer persona.
+    Uses Beta distributions for skew and variance.
+    """
+    mean = dish_true_means[dish.id]
 
-    # Different cuisines have different rating patterns
-    if cuisine_type == "Italian":
-        # Italian food tends to be highly rated
-        mean = 4.2
-        std = 0.8
-    elif cuisine_type == "Mexican":
-        mean = 4.0
-        std = 0.9
-    elif cuisine_type == "Indian":
-        # Spicy food can be polarizing
-        mean = 3.8
-        std = 1.1
-    elif cuisine_type == "American":
-        mean = 3.9
-        std = 0.7
-    else:
-        # Default distribution
-        mean = 4.0
-        std = 0.9
+    # Persona-specific bias (alpha, beta for Beta distribution)
+    persona_params = {
+        "casual": (3, 1.5),  # Skews high, casuals usually 4–5
+        "enthusiast": (4, 1.2),  # Heavy 5-star bias
+        "critic": (2, 2.5),  # More low/mid reviews
+        "expert": (2.2, 2),  # Stricter than critic
+    }
 
-    # Adjust for complexity
-    if "Quick" in dish.tags:
-        # Quick recipes get slightly higher ratings (easier to execute)
-        mean += 0.1
-        std -= 0.1
+    alpha, beta = persona_params.get(persona, (2.5, 2))  # default balance
 
-    # Generate rating from normal distribution, clipped to 1-5 range
-    rating = np.random.normal(mean, std)
-    rating = max(1, min(5, round(rating)))
+    # Draw base rating from Beta(α, β), scaled 1–5
+    raw_score = np.random.beta(alpha, beta) * 4 + 1
+    rating = round(raw_score)
 
-    return rating
+    # Influence from dish's "true mean"
+    if random.random() < 0.6:  # 60% of time, ratings lean toward dish quality
+        noise = np.random.normal(mean, 0.7)
+        rating = round((rating + noise) / 2)
+
+    return max(1, min(5, rating))
 
 
 # Generate reviews
@@ -896,7 +896,7 @@ for dish in dishes:
         persona = user_personas.get(user.username, "casual")
 
         # Generate rating based on dish characteristics
-        rating = generate_rating_distribution(dish)
+        rating = generate_rating_distribution(dish, persona)
 
         # Generate comment based on rating and persona
         comment = generate_comment(dish, rating, persona)

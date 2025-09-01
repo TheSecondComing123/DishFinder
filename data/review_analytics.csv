@@ -1,0 +1,1178 @@
+dish_id,dish_name,user,rating,date,comment_length,cuisine
+1,Spaghetti alla Carbonara,a,5,2025-07-10,6,Italian
+1,Spaghetti alla Carbonara,c,3,2024-06-23,3,Italian
+1,Spaghetti alla Carbonara,s,3,2024-06-23,36,Italian
+1,Spaghetti alla Carbonara,ethan_is_fat,4,2025-02-07,141,Italian
+1,Spaghetti alla Carbonara,ethan,3,2025-06-09,146,Italian
+1,Spaghetti alla Carbonara,Hello,3,2025-08-22,192,Italian
+1,Spaghetti alla Carbonara,JacobIsAwesome,4,2025-06-15,117,Italian
+1,Spaghetti alla Carbonara,b,4,2024-11-17,70,Italian
+1,Spaghetti alla Carbonara,abc,5,2025-08-03,35,Italian
+1,Spaghetti alla Carbonara,StacySimon,5,2024-09-14,77,Italian
+1,Spaghetti alla Carbonara,ThomasWilliams,5,2025-02-05,37,Italian
+1,Spaghetti alla Carbonara,AustinJones,4,2025-05-27,225,Italian
+1,Spaghetti alla Carbonara,cleverbaker515,4,2025-02-22,33,Italian
+1,Spaghetti alla Carbonara,hungrytaster277,3,2025-07-26,48,Italian
+1,Spaghetti alla Carbonara,JasonPrince95,4,2025-01-06,17,Italian
+1,Spaghetti alla Carbonara,bakingPeter,3,2025-03-25,75,Italian
+1,Spaghetti alla Carbonara,PatriciaGutierrez97,4,2024-11-11,104,Italian
+1,Spaghetti alla Carbonara,EmmaFrank,5,2025-06-11,85,Italian
+1,Spaghetti alla Carbonara,ChadBlevins64,4,2024-10-13,167,Italian
+1,Spaghetti alla Carbonara,KevinPope80,3,2025-01-29,213,Italian
+1,Spaghetti alla Carbonara,sleepycook414,4,2024-12-16,85,Italian
+1,Spaghetti alla Carbonara,ParkerCampbell87,5,2025-01-10,71,Italian
+1,Spaghetti alla Carbonara,CarolWells17,3,2024-11-16,73,Italian
+1,Spaghetti alla Carbonara,generationJoin,4,2025-01-21,131,Italian
+1,Spaghetti alla Carbonara,TaraStephenson,3,2025-05-22,124,Italian
+1,Spaghetti alla Carbonara,SheilaRamirez48,4,2025-05-31,69,Italian
+1,Spaghetti alla Carbonara,bakingEric,2,2024-12-17,49,Italian
+1,Spaghetti alla Carbonara,WalterHarrison,4,2025-05-07,29,Italian
+1,Spaghetti alla Carbonara,superbaker656,4,2024-11-19,113,Italian
+1,Spaghetti alla Carbonara,stockWithout,3,2025-06-28,46,Italian
+2,Creamy Coconut Chicken Curry,a,4,2025-07-10,24,Indian
+2,Creamy Coconut Chicken Curry,s,1,2024-06-23,51,Indian
+2,Creamy Coconut Chicken Curry,ethan_is_fat,5,2025-04-05,139,Indian
+2,Creamy Coconut Chicken Curry,ethan,4,2024-12-18,116,Indian
+2,Creamy Coconut Chicken Curry,Hello,4,2025-02-04,122,Indian
+2,Creamy Coconut Chicken Curry,JacobIsAwesome,4,2025-03-07,137,Indian
+2,Creamy Coconut Chicken Curry,b,3,2024-12-27,65,Indian
+2,Creamy Coconut Chicken Curry,abc,3,2024-11-17,49,Indian
+2,Creamy Coconut Chicken Curry,c,5,2025-08-11,129,Indian
+2,Creamy Coconut Chicken Curry,cleverbaker287,2,2024-10-17,142,Indian
+2,Creamy Coconut Chicken Curry,eatsMegan,2,2024-11-16,138,Indian
+2,Creamy Coconut Chicken Curry,happytaster179,3,2025-04-24,36,Indian
+2,Creamy Coconut Chicken Curry,KeithFuller,2,2024-11-16,60,Indian
+2,Creamy Coconut Chicken Curry,MaryParker42,3,2025-02-04,97,Indian
+2,Creamy Coconut Chicken Curry,AmyHodges1,4,2024-12-08,158,Indian
+2,Creamy Coconut Chicken Curry,StevenWyatt,2,2025-08-31,139,Indian
+2,Creamy Coconut Chicken Curry,gourmetJenna,4,2025-06-16,34,Indian
+2,Creamy Coconut Chicken Curry,AndreaDrake,3,2025-08-17,188,Indian
+2,Creamy Coconut Chicken Curry,coldRich,4,2025-06-05,31,Indian
+2,Creamy Coconut Chicken Curry,CathyFoster28,3,2024-09-29,193,Indian
+2,Creamy Coconut Chicken Curry,MitchellCarpenter65,4,2024-12-24,112,Indian
+2,Creamy Coconut Chicken Curry,tasteAmber,3,2025-08-15,32,Indian
+2,Creamy Coconut Chicken Curry,tastePaul23,3,2025-08-10,188,Indian
+2,Creamy Coconut Chicken Curry,eatsMichael50,3,2025-05-05,159,Indian
+2,Creamy Coconut Chicken Curry,KevinPope80,3,2025-03-23,264,Indian
+2,Creamy Coconut Chicken Curry,HeatherNelson,3,2024-11-29,116,Indian
+2,Creamy Coconut Chicken Curry,DanielMendoza66,3,2024-12-11,90,Indian
+2,Creamy Coconut Chicken Curry,cleverplate912,4,2025-07-03,221,Indian
+2,Creamy Coconut Chicken Curry,rangeHerself,3,2025-06-28,121,Indian
+2,Creamy Coconut Chicken Curry,DebraConner,5,2024-11-29,92,Indian
+3,Lemon-Herb Roasted Chicken,a,5,2025-07-11,4,American
+3,Lemon-Herb Roasted Chicken,ethan,3,2025-06-17,146,American
+3,Lemon-Herb Roasted Chicken,Hello,4,2025-05-17,120,American
+3,Lemon-Herb Roasted Chicken,abc,5,2025-01-21,42,American
+3,Lemon-Herb Roasted Chicken,b,4,2025-06-03,98,American
+3,Lemon-Herb Roasted Chicken,JacobIsAwesome,3,2024-11-03,152,American
+3,Lemon-Herb Roasted Chicken,ethan_is_fat,4,2024-12-31,121,American
+3,Lemon-Herb Roasted Chicken,c,4,2025-08-21,79,American
+3,Lemon-Herb Roasted Chicken,s,4,2025-02-06,29,American
+3,Lemon-Herb Roasted Chicken,KevinBoyle,2,2024-10-19,69,American
+3,Lemon-Herb Roasted Chicken,CathyFoster28,3,2025-08-29,145,American
+3,Lemon-Herb Roasted Chicken,AmandaMunoz75,4,2025-01-16,35,American
+3,Lemon-Herb Roasted Chicken,bakingMichael,4,2025-03-21,237,American
+3,Lemon-Herb Roasted Chicken,cleverbaker515,3,2025-02-02,35,American
+3,Lemon-Herb Roasted Chicken,cleverkitchen840,3,2024-09-14,243,American
+3,Lemon-Herb Roasted Chicken,AmyHarvey29,3,2025-07-20,171,American
+3,Lemon-Herb Roasted Chicken,soMoment,3,2025-06-14,149,American
+3,Lemon-Herb Roasted Chicken,cleverplate306,3,2025-06-28,36,American
+3,Lemon-Herb Roasted Chicken,cookStephen,2,2025-06-06,25,American
+3,Lemon-Herb Roasted Chicken,CherylGray77,4,2025-05-07,81,American
+3,Lemon-Herb Roasted Chicken,flavorKyle,3,2025-08-16,140,American
+3,Lemon-Herb Roasted Chicken,cookJennifer,3,2024-12-13,174,American
+3,Lemon-Herb Roasted Chicken,bakingLinda,4,2025-03-15,122,American
+3,Lemon-Herb Roasted Chicken,MelissaCastillo,3,2025-03-23,152,American
+3,Lemon-Herb Roasted Chicken,watchReveal,4,2025-03-26,99,American
+3,Lemon-Herb Roasted Chicken,perhapsApply,4,2025-04-20,121,American
+3,Lemon-Herb Roasted Chicken,daughterMe,2,2025-07-22,138,American
+3,Lemon-Herb Roasted Chicken,megafoodie660,4,2024-10-28,31,American
+3,Lemon-Herb Roasted Chicken,successfulMajority,2,2024-12-20,172,American
+3,Lemon-Herb Roasted Chicken,togetherSurface,4,2025-08-30,84,American
+3,Lemon-Herb Roasted Chicken,superchef920,4,2025-08-28,97,American
+3,Lemon-Herb Roasted Chicken,flavorKathleen,4,2025-01-05,25,American
+3,Lemon-Herb Roasted Chicken,gourmetTravis,1,2024-09-19,135,American
+3,Lemon-Herb Roasted Chicken,flavorSarah,4,2024-11-25,27,American
+3,Lemon-Herb Roasted Chicken,StacySimon,3,2025-03-07,49,American
+3,Lemon-Herb Roasted Chicken,purposeEnvironmental,4,2024-10-19,33,American
+3,Lemon-Herb Roasted Chicken,MelissaDelgado57,3,2024-10-28,144,American
+3,Lemon-Herb Roasted Chicken,sleepytaster221,3,2025-05-18,260,American
+3,Lemon-Herb Roasted Chicken,sleepycook414,4,2025-06-15,74,American
+3,Lemon-Herb Roasted Chicken,regionLeast,4,2025-01-27,96,American
+3,Lemon-Herb Roasted Chicken,MichelleWilliams5,3,2024-12-17,213,American
+3,Lemon-Herb Roasted Chicken,buildBody,4,2025-07-08,97,American
+3,Lemon-Herb Roasted Chicken,quickcook709,4,2025-06-16,127,American
+3,Lemon-Herb Roasted Chicken,realMiss,3,2024-10-15,249,American
+3,Lemon-Herb Roasted Chicken,DannySoto,5,2025-04-30,119,American
+3,Lemon-Herb Roasted Chicken,HeatherNelson,4,2024-12-26,83,American
+3,Lemon-Herb Roasted Chicken,wellSuccessful,4,2025-07-29,27,American
+3,Lemon-Herb Roasted Chicken,LauraRoberson,2,2024-12-30,138,American
+3,Lemon-Herb Roasted Chicken,awesomecook3,3,2024-10-28,183,American
+3,Lemon-Herb Roasted Chicken,paintingDream,3,2024-11-02,36,American
+3,Lemon-Herb Roasted Chicken,DavidWilliams,3,2025-08-16,28,American
+3,Lemon-Herb Roasted Chicken,BrandonWheeler,3,2024-09-18,36,American
+3,Lemon-Herb Roasted Chicken,MatthewEstrada,5,2025-06-14,76,American
+4,One-Pot Creamy Tomato Pasta,a,1,2025-07-10,19,Italian
+4,One-Pot Creamy Tomato Pasta,c,3,2024-10-28,162,Italian
+4,One-Pot Creamy Tomato Pasta,abc,5,2025-06-01,32,Italian
+4,One-Pot Creamy Tomato Pasta,s,3,2024-11-10,30,Italian
+4,One-Pot Creamy Tomato Pasta,ethan_is_fat,3,2025-08-26,161,Italian
+4,One-Pot Creamy Tomato Pasta,ethan,4,2024-09-27,136,Italian
+4,One-Pot Creamy Tomato Pasta,JacobIsAwesome,4,2025-08-07,113,Italian
+4,One-Pot Creamy Tomato Pasta,b,4,2024-11-02,66,Italian
+4,One-Pot Creamy Tomato Pasta,Hello,4,2024-12-10,124,Italian
+4,One-Pot Creamy Tomato Pasta,MelissaDelgado57,4,2025-07-17,138,Italian
+4,One-Pot Creamy Tomato Pasta,tripNation,4,2025-03-21,85,Italian
+4,One-Pot Creamy Tomato Pasta,tasteElizabeth,4,2025-08-19,20,Italian
+4,One-Pot Creamy Tomato Pasta,ElizabethClark,4,2024-09-19,110,Italian
+4,One-Pot Creamy Tomato Pasta,eatsCynthia,3,2025-07-18,186,Italian
+4,One-Pot Creamy Tomato Pasta,happybaker100,5,2025-08-14,170,Italian
+4,One-Pot Creamy Tomato Pasta,JasonHowell72,4,2025-08-01,25,Italian
+4,One-Pot Creamy Tomato Pasta,LynnDuarte12,3,2024-11-27,72,Italian
+4,One-Pot Creamy Tomato Pasta,DouglasMeadows10,2,2025-06-08,40,Italian
+4,One-Pot Creamy Tomato Pasta,remainDecide,4,2025-05-04,197,Italian
+4,One-Pot Creamy Tomato Pasta,quickeater581,2,2024-09-04,232,Italian
+4,One-Pot Creamy Tomato Pasta,tasteAngela,3,2025-03-29,153,Italian
+4,One-Pot Creamy Tomato Pasta,LaurenLogan64,4,2025-03-01,24,Italian
+4,One-Pot Creamy Tomato Pasta,HeatherMedina1,5,2025-03-15,154,Italian
+4,One-Pot Creamy Tomato Pasta,JenniferCastro,4,2025-06-07,39,Italian
+4,One-Pot Creamy Tomato Pasta,CharlesLamb,3,2024-11-04,141,Italian
+4,One-Pot Creamy Tomato Pasta,RebeccaJackson50,3,2024-12-14,39,Italian
+4,One-Pot Creamy Tomato Pasta,andNor,3,2025-08-28,190,Italian
+4,One-Pot Creamy Tomato Pasta,receiveFor,5,2025-02-13,149,Italian
+4,One-Pot Creamy Tomato Pasta,JosephLogan4,4,2024-10-08,18,Italian
+4,One-Pot Creamy Tomato Pasta,AmyHodges1,3,2025-01-20,130,Italian
+4,One-Pot Creamy Tomato Pasta,flavorAndre,4,2025-04-15,224,Italian
+4,One-Pot Creamy Tomato Pasta,goalAccount,4,2024-12-09,29,Italian
+4,One-Pot Creamy Tomato Pasta,buildBody,5,2025-01-27,69,Italian
+4,One-Pot Creamy Tomato Pasta,HeatherCarlson,5,2025-04-16,31,Italian
+4,One-Pot Creamy Tomato Pasta,AudreyHowell,3,2025-02-09,35,Italian
+4,One-Pot Creamy Tomato Pasta,LauraWood,4,2025-03-04,34,Italian
+4,One-Pot Creamy Tomato Pasta,MelissaCarroll58,3,2025-02-13,40,Italian
+4,One-Pot Creamy Tomato Pasta,DanielMyers80,3,2025-08-29,38,Italian
+4,One-Pot Creamy Tomato Pasta,cleverkitchen840,4,2024-12-06,191,Italian
+4,One-Pot Creamy Tomato Pasta,whomWhom,2,2024-09-08,196,Italian
+5,Garlic-Butter Shrimp & Rice,ethan,4,2025-08-09,9,Other
+5,Garlic-Butter Shrimp & Rice,a,5,2025-07-10,6,Other
+5,Garlic-Butter Shrimp & Rice,c,4,2024-10-26,69,Other
+5,Garlic-Butter Shrimp & Rice,ethan_is_fat,4,2024-12-28,122,Other
+5,Garlic-Butter Shrimp & Rice,JacobIsAwesome,5,2025-01-02,175,Other
+5,Garlic-Butter Shrimp & Rice,b,5,2025-06-24,80,Other
+5,Garlic-Butter Shrimp & Rice,abc,5,2024-12-01,29,Other
+5,Garlic-Butter Shrimp & Rice,Hello,4,2024-12-21,120,Other
+5,Garlic-Butter Shrimp & Rice,s,2,2025-04-15,31,Other
+5,Garlic-Butter Shrimp & Rice,kitchenWilliam,4,2025-06-29,79,Other
+5,Garlic-Butter Shrimp & Rice,LauraRoberson,3,2024-09-11,151,Other
+5,Garlic-Butter Shrimp & Rice,LeslieSmith,4,2025-04-09,29,Other
+5,Garlic-Butter Shrimp & Rice,AaronBrown42,4,2025-01-15,119,Other
+5,Garlic-Butter Shrimp & Rice,LeeDuffy29,4,2024-10-01,38,Other
+5,Garlic-Butter Shrimp & Rice,eatsWhitney,3,2025-04-20,132,Other
+5,Garlic-Butter Shrimp & Rice,preventStrategy,4,2024-11-12,117,Other
+5,Garlic-Butter Shrimp & Rice,AshleyStevens,4,2025-08-09,91,Other
+5,Garlic-Butter Shrimp & Rice,awesometaster645,3,2024-12-08,144,Other
+5,Garlic-Butter Shrimp & Rice,StephanieAtkinson,5,2024-12-15,66,Other
+5,Garlic-Butter Shrimp & Rice,regionLeast,4,2024-09-10,92,Other
+5,Garlic-Butter Shrimp & Rice,KennethBailey28,2,2024-12-30,41,Other
+5,Garlic-Butter Shrimp & Rice,LynnDuarte12,5,2025-07-03,69,Other
+5,Garlic-Butter Shrimp & Rice,allLight,3,2024-11-06,48,Other
+5,Garlic-Butter Shrimp & Rice,fewLot,4,2025-06-11,240,Other
+5,Garlic-Butter Shrimp & Rice,LoriHoward44,3,2024-10-25,31,Other
+5,Garlic-Butter Shrimp & Rice,MarkWilson67,4,2024-09-23,33,Other
+5,Garlic-Butter Shrimp & Rice,eatsCynthia,3,2024-12-01,185,Other
+5,Garlic-Butter Shrimp & Rice,clevereater932,3,2025-03-06,139,Other
+5,Garlic-Butter Shrimp & Rice,SarahJones,3,2024-11-13,165,Other
+5,Garlic-Butter Shrimp & Rice,happyfoodie860,4,2025-06-08,37,Other
+5,Garlic-Butter Shrimp & Rice,generationJoin,4,2025-07-24,149,Other
+5,Garlic-Butter Shrimp & Rice,WalterHarrison,3,2024-10-27,36,Other
+5,Garlic-Butter Shrimp & Rice,causeWrong,3,2024-11-13,142,Other
+5,Garlic-Butter Shrimp & Rice,eatsAndrea98,3,2025-05-16,142,Other
+5,Garlic-Butter Shrimp & Rice,RobertWalsh,3,2025-03-20,82,Other
+5,Garlic-Butter Shrimp & Rice,quickcook709,4,2025-02-07,76,Other
+5,Garlic-Butter Shrimp & Rice,MichelleSmith,3,2025-01-22,192,Other
+5,Garlic-Butter Shrimp & Rice,perhapsApply,3,2024-11-07,76,Other
+5,Garlic-Butter Shrimp & Rice,hungryeater890,4,2024-12-01,242,Other
+5,Garlic-Butter Shrimp & Rice,BrandonWheeler,5,2025-05-09,32,Other
+5,Garlic-Butter Shrimp & Rice,eatsCandice,4,2025-06-17,219,Other
+5,Garlic-Butter Shrimp & Rice,ShariSchmidt,3,2024-12-14,55,Other
+5,Garlic-Butter Shrimp & Rice,JimTaylor,4,2024-09-28,90,Other
+5,Garlic-Butter Shrimp & Rice,andNor,4,2025-05-03,193,Other
+5,Garlic-Butter Shrimp & Rice,quickeater581,4,2024-12-25,209,Other
+5,Garlic-Butter Shrimp & Rice,ChadBlevins64,2,2024-12-07,162,Other
+5,Garlic-Butter Shrimp & Rice,StevenWyatt,3,2025-03-01,121,Other
+5,Garlic-Butter Shrimp & Rice,DanielMartinez,4,2025-02-06,25,Other
+5,Garlic-Butter Shrimp & Rice,HeatherNelson,4,2025-06-22,84,Other
+5,Garlic-Butter Shrimp & Rice,MartinBrowning,3,2025-02-08,35,Other
+5,Garlic-Butter Shrimp & Rice,CarolWells17,3,2025-05-08,101,Other
+5,Garlic-Butter Shrimp & Rice,leaderTell,4,2025-03-15,94,Other
+5,Garlic-Butter Shrimp & Rice,MaryParker42,4,2025-05-05,93,Other
+5,Garlic-Butter Shrimp & Rice,HeatherCarlson,3,2025-03-24,46,Other
+5,Garlic-Butter Shrimp & Rice,writeSecond,4,2025-05-11,38,Other
+5,Garlic-Butter Shrimp & Rice,EmilyBeck35,3,2025-07-03,35,Other
+5,Garlic-Butter Shrimp & Rice,awesomecook3,3,2024-12-26,140,Other
+5,Garlic-Butter Shrimp & Rice,KevinBoyle,4,2025-08-11,76,Other
+5,Garlic-Butter Shrimp & Rice,CharlesLamb,3,2025-06-11,143,Other
+5,Garlic-Butter Shrimp & Rice,fireDoctor,4,2025-08-05,199,Other
+5,Garlic-Butter Shrimp & Rice,MichaelSnyder99,3,2024-09-21,104,Other
+5,Garlic-Butter Shrimp & Rice,flavorKyle,4,2025-06-12,143,Other
+6,Veggie-Loaded Frittata,a,5,2025-07-10,64,Other
+6,Veggie-Loaded Frittata,b,5,2025-07-10,4,Other
+6,Veggie-Loaded Frittata,JacobIsAwesome,5,2025-08-04,134,Other
+6,Veggie-Loaded Frittata,ethan_is_fat,2,2025-07-20,182,Other
+6,Veggie-Loaded Frittata,ethan,4,2025-06-25,124,Other
+6,Veggie-Loaded Frittata,s,5,2025-04-28,18,Other
+6,Veggie-Loaded Frittata,c,5,2025-07-18,72,Other
+6,Veggie-Loaded Frittata,Hello,4,2024-12-28,187,Other
+6,Veggie-Loaded Frittata,abc,3,2025-04-06,46,Other
+6,Veggie-Loaded Frittata,kidTest,3,2025-07-28,239,Other
+6,Veggie-Loaded Frittata,AshleyStevens,5,2025-07-12,113,Other
+6,Veggie-Loaded Frittata,AlecScott,5,2025-06-21,34,Other
+6,Veggie-Loaded Frittata,flavorAndre,3,2025-06-22,214,Other
+6,Veggie-Loaded Frittata,courseFar,3,2024-09-01,166,Other
+6,Veggie-Loaded Frittata,andNor,4,2025-05-11,237,Other
+6,Veggie-Loaded Frittata,KennethHawkins26,4,2025-03-16,22,Other
+6,Veggie-Loaded Frittata,chefScott,4,2024-12-29,227,Other
+6,Veggie-Loaded Frittata,eatsSamantha,3,2025-03-14,256,Other
+6,Veggie-Loaded Frittata,KristinGibson12,4,2025-07-21,118,Other
+6,Veggie-Loaded Frittata,AustinJones,4,2024-12-13,185,Other
+6,Veggie-Loaded Frittata,bakingPeter,4,2025-07-20,82,Other
+6,Veggie-Loaded Frittata,KevinPope80,4,2025-04-07,217,Other
+6,Veggie-Loaded Frittata,bakingLinda,3,2025-05-20,151,Other
+6,Veggie-Loaded Frittata,tastePaul,5,2025-09-01,87,Other
+6,Veggie-Loaded Frittata,aheadBag,3,2024-11-24,46,Other
+6,Veggie-Loaded Frittata,suddenlyCourt,4,2025-06-19,111,Other
+6,Veggie-Loaded Frittata,foodieMartin,4,2025-04-06,25,Other
+6,Veggie-Loaded Frittata,eatsCharles,5,2025-08-17,124,Other
+6,Veggie-Loaded Frittata,DonGay91,4,2024-12-06,26,Other
+6,Veggie-Loaded Frittata,eatsAndrea,3,2025-04-13,125,Other
+6,Veggie-Loaded Frittata,JamesMartin,4,2025-07-13,36,Other
+6,Veggie-Loaded Frittata,tasteStephen,4,2024-10-07,68,Other
+6,Veggie-Loaded Frittata,EmilyBeck35,3,2025-03-22,40,Other
+6,Veggie-Loaded Frittata,JesseBarry52,4,2024-11-08,158,Other
+6,Veggie-Loaded Frittata,AlexisSmith3,4,2024-12-07,83,Other
+6,Veggie-Loaded Frittata,SueHumphrey,3,2025-05-04,32,Other
+6,Veggie-Loaded Frittata,happychef592,4,2025-02-02,126,Other
+6,Veggie-Loaded Frittata,allLight,3,2025-03-26,47,Other
+6,Veggie-Loaded Frittata,SamanthaBartlett58,4,2025-06-03,74,Other
+6,Veggie-Loaded Frittata,bakingSamantha,2,2025-02-13,111,Other
+6,Veggie-Loaded Frittata,DavidKim29,5,2025-01-17,147,Other
+6,Veggie-Loaded Frittata,JoshuaMartinez,4,2025-03-06,37,Other
+6,Veggie-Loaded Frittata,foodieTimothy,4,2025-02-28,25,Other
+6,Veggie-Loaded Frittata,foodieAmy,3,2025-01-20,31,Other
+6,Veggie-Loaded Frittata,KeithFuller,4,2024-11-17,31,Other
+6,Veggie-Loaded Frittata,AnnLopez54,4,2025-05-12,42,Other
+6,Veggie-Loaded Frittata,ChristopherGoodwin46,4,2025-02-24,87,Other
+7,Smash Burger & Fries,a,5,2025-07-12,124,American
+7,Smash Burger & Fries,Hello,4,2024-12-11,155,American
+7,Smash Burger & Fries,s,3,2025-03-25,37,American
+7,Smash Burger & Fries,ethan,3,2025-01-23,161,American
+7,Smash Burger & Fries,b,4,2024-12-18,90,American
+7,Smash Burger & Fries,abc,3,2025-05-16,37,American
+7,Smash Burger & Fries,ethan_is_fat,4,2025-09-01,119,American
+7,Smash Burger & Fries,c,5,2025-02-12,95,American
+7,Smash Burger & Fries,JacobIsAwesome,3,2024-12-26,188,American
+7,Smash Burger & Fries,regionLeast,4,2025-04-02,91,American
+7,Smash Burger & Fries,SaraShelton32,4,2025-07-24,117,American
+7,Smash Burger & Fries,MatthewCalderon54,4,2025-08-03,122,American
+7,Smash Burger & Fries,crazytaster525,4,2025-07-11,68,American
+7,Smash Burger & Fries,gourmetRobin,4,2024-11-07,66,American
+7,Smash Burger & Fries,JulieJohnson23,3,2025-02-19,113,American
+7,Smash Burger & Fries,MelissaHughes,3,2024-11-22,141,American
+7,Smash Burger & Fries,magazineMeeting,3,2025-03-17,44,American
+7,Smash Burger & Fries,awesometaster645,2,2025-03-11,151,American
+7,Smash Burger & Fries,RobertSwanson,3,2025-03-25,39,American
+7,Smash Burger & Fries,JosephPeck,4,2025-03-23,142,American
+7,Smash Burger & Fries,babyEmployee,3,2024-11-20,37,American
+7,Smash Burger & Fries,perhapsApply,4,2024-09-04,93,American
+7,Smash Burger & Fries,MelissaDelgado57,1,2025-07-22,136,American
+7,Smash Burger & Fries,LeslieSmith,3,2025-08-12,39,American
+7,Smash Burger & Fries,MatthewEstrada,3,2025-07-24,58,American
+7,Smash Burger & Fries,cutGirl,3,2024-09-22,156,American
+7,Smash Burger & Fries,AlecScott,4,2025-04-27,22,American
+7,Smash Burger & Fries,ElizabethEvans52,2,2024-11-24,120,American
+7,Smash Burger & Fries,CynthiaMiranda,3,2024-11-13,28,American
+7,Smash Burger & Fries,flavorSarah,4,2025-03-11,27,American
+7,Smash Burger & Fries,headHalf,3,2025-01-23,49,American
+7,Smash Burger & Fries,MichaelBrady,3,2024-10-04,96,American
+7,Smash Burger & Fries,happyfoodie860,4,2024-12-21,24,American
+7,Smash Burger & Fries,DannySoto,4,2025-04-17,92,American
+7,Smash Burger & Fries,quickcook709,3,2025-06-13,69,American
+7,Smash Burger & Fries,remainCitizen,2,2025-05-05,175,American
+7,Smash Burger & Fries,tripNation,4,2025-08-30,70,American
+7,Smash Burger & Fries,MaryParker42,4,2024-09-30,108,American
+7,Smash Burger & Fries,StephanieAtkinson,4,2025-05-11,116,American
+7,Smash Burger & Fries,cookJennifer91,3,2024-11-27,217,American
+7,Smash Burger & Fries,JeremyShaw,4,2025-02-04,36,American
+7,Smash Burger & Fries,JesseBarry52,4,2025-04-03,199,American
+7,Smash Burger & Fries,cookKerry,2,2025-05-25,162,American
+7,Smash Burger & Fries,quickeater581,3,2025-05-29,145,American
+7,Smash Burger & Fries,flavorDerrick,4,2024-09-12,48,American
+7,Smash Burger & Fries,JamesBerger34,4,2025-06-06,68,American
+7,Smash Burger & Fries,happyfoodie957,2,2025-04-18,160,American
+7,Smash Burger & Fries,treatmentHuman,3,2025-07-31,189,American
+7,Smash Burger & Fries,foodieAmy,3,2024-12-13,37,American
+7,Smash Burger & Fries,ChristopherGoodwin46,3,2025-05-21,76,American
+7,Smash Burger & Fries,DanielTaylor7,5,2025-03-01,35,American
+7,Smash Burger & Fries,coldRich,4,2025-08-13,25,American
+7,Smash Burger & Fries,MitchellCarpenter65,4,2024-12-21,88,American
+7,Smash Burger & Fries,awesomeplate358,4,2025-02-16,30,American
+7,Smash Burger & Fries,tasteAngela,4,2024-10-07,175,American
+7,Smash Burger & Fries,SheilaRamirez48,5,2025-04-05,66,American
+7,Smash Burger & Fries,governmentYoung,3,2025-08-25,102,American
+7,Smash Burger & Fries,chefKristen,3,2024-11-19,30,American
+7,Smash Burger & Fries,eatsRebecca,3,2025-03-24,171,American
+7,Smash Burger & Fries,cleverbaker287,3,2025-06-07,157,American
+7,Smash Burger & Fries,TylerHoffman90,4,2025-05-15,32,American
+8,Authentic Shoyu Ramen,abc,5,2025-08-31,9,Japanese
+8,Authentic Shoyu Ramen,a,4,2025-07-12,18,Japanese
+8,Authentic Shoyu Ramen,Hello,4,2025-03-12,113,Japanese
+8,Authentic Shoyu Ramen,b,4,2025-07-23,83,Japanese
+8,Authentic Shoyu Ramen,s,5,2025-03-08,27,Japanese
+8,Authentic Shoyu Ramen,c,5,2025-04-17,74,Japanese
+8,Authentic Shoyu Ramen,ethan,4,2025-06-23,159,Japanese
+8,Authentic Shoyu Ramen,JacobIsAwesome,4,2024-10-25,122,Japanese
+8,Authentic Shoyu Ramen,ethan_is_fat,4,2025-06-12,132,Japanese
+8,Authentic Shoyu Ramen,headHalf,4,2024-12-09,33,Japanese
+8,Authentic Shoyu Ramen,chefAnthony,4,2025-01-25,33,Japanese
+8,Authentic Shoyu Ramen,preventStrategy,2,2024-11-13,136,Japanese
+8,Authentic Shoyu Ramen,MaryWilson79,3,2025-06-05,132,Japanese
+8,Authentic Shoyu Ramen,quickeater581,4,2025-01-02,229,Japanese
+8,Authentic Shoyu Ramen,sleepybaker197,2,2025-05-29,143,Japanese
+8,Authentic Shoyu Ramen,ToddWagner,3,2024-11-06,149,Japanese
+8,Authentic Shoyu Ramen,DanielBeard79,4,2024-09-28,205,Japanese
+8,Authentic Shoyu Ramen,KimberlyIngram,5,2025-06-26,129,Japanese
+8,Authentic Shoyu Ramen,EricaCampbell15,4,2025-06-01,37,Japanese
+8,Authentic Shoyu Ramen,ChristianMontgomery56,2,2024-11-26,153,Japanese
+8,Authentic Shoyu Ramen,ChristineGreene,5,2025-02-12,27,Japanese
+8,Authentic Shoyu Ramen,crazycook275,4,2024-11-17,104,Japanese
+8,Authentic Shoyu Ramen,ScottColeman,3,2025-06-12,40,Japanese
+8,Authentic Shoyu Ramen,RobertFerguson86,4,2025-07-25,25,Japanese
+8,Authentic Shoyu Ramen,regionLeast,4,2024-12-17,80,Japanese
+8,Authentic Shoyu Ramen,GabrielFox51,4,2024-10-15,27,Japanese
+8,Authentic Shoyu Ramen,receiveFor,3,2025-07-24,156,Japanese
+8,Authentic Shoyu Ramen,cleverkitchen840,4,2024-10-26,159,Japanese
+8,Authentic Shoyu Ramen,decideBig,4,2024-10-14,36,Japanese
+8,Authentic Shoyu Ramen,bakingEric,2,2024-10-03,52,Japanese
+8,Authentic Shoyu Ramen,eatsRebecca,4,2025-04-14,139,Japanese
+8,Authentic Shoyu Ramen,JeremyShaw,3,2024-09-09,41,Japanese
+8,Authentic Shoyu Ramen,DanielMendoza66,4,2025-01-12,92,Japanese
+9,Shrimp Pad Thai,a,2,2025-07-12,86,Thai
+9,Shrimp Pad Thai,abc,2,2025-08-07,54,Thai
+9,Shrimp Pad Thai,ethan,4,2025-06-23,113,Thai
+9,Shrimp Pad Thai,b,3,2025-07-23,65,Thai
+9,Shrimp Pad Thai,s,3,2025-04-07,34,Thai
+9,Shrimp Pad Thai,Hello,4,2025-02-10,163,Thai
+9,Shrimp Pad Thai,c,5,2024-10-14,80,Thai
+9,Shrimp Pad Thai,JacobIsAwesome,5,2024-12-22,183,Thai
+9,Shrimp Pad Thai,ethan_is_fat,5,2025-06-25,121,Thai
+9,Shrimp Pad Thai,realMiss,3,2024-12-22,235,Thai
+9,Shrimp Pad Thai,purposeEnvironmental,3,2025-08-25,35,Thai
+9,Shrimp Pad Thai,chefKristen,4,2025-03-19,25,Thai
+9,Shrimp Pad Thai,MartinBrowning,3,2025-02-01,26,Thai
+9,Shrimp Pad Thai,sleepyeater845,4,2025-07-10,149,Thai
+9,Shrimp Pad Thai,GabrielFox51,3,2024-09-19,28,Thai
+9,Shrimp Pad Thai,MelvinBeard13,3,2024-10-20,77,Thai
+9,Shrimp Pad Thai,awesomekitchen529,4,2025-01-02,119,Thai
+9,Shrimp Pad Thai,KennethBailey28,3,2025-07-31,38,Thai
+9,Shrimp Pad Thai,AudreyHowell,4,2024-09-29,26,Thai
+9,Shrimp Pad Thai,gourmetRobin,4,2025-06-22,87,Thai
+9,Shrimp Pad Thai,sleepyplate61,4,2025-05-13,180,Thai
+9,Shrimp Pad Thai,stockWithout,4,2025-06-17,31,Thai
+9,Shrimp Pad Thai,crazychef704,3,2024-12-08,248,Thai
+9,Shrimp Pad Thai,MelissaCastillo,3,2025-02-09,172,Thai
+9,Shrimp Pad Thai,PatrickNguyen,4,2024-12-06,76,Thai
+9,Shrimp Pad Thai,awesometaster645,3,2025-04-11,153,Thai
+9,Shrimp Pad Thai,cookJennifer91,2,2025-08-06,202,Thai
+10,Classic Margherita Pizza,a,4,2025-07-12,50,Italian
+10,Classic Margherita Pizza,JacobIsAwesome,4,2025-04-02,143,Italian
+10,Classic Margherita Pizza,Hello,4,2024-12-25,125,Italian
+10,Classic Margherita Pizza,s,4,2025-01-29,37,Italian
+10,Classic Margherita Pizza,ethan_is_fat,3,2025-06-07,164,Italian
+10,Classic Margherita Pizza,abc,4,2025-03-29,37,Italian
+10,Classic Margherita Pizza,b,5,2024-10-06,100,Italian
+10,Classic Margherita Pizza,c,4,2025-05-17,78,Italian
+10,Classic Margherita Pizza,ethan,5,2024-11-01,109,Italian
+10,Classic Margherita Pizza,cookJennifer,3,2024-09-10,187,Italian
+10,Classic Margherita Pizza,howeverSingle,5,2025-02-02,76,Italian
+10,Classic Margherita Pizza,tasteElizabeth,5,2024-11-24,35,Italian
+10,Classic Margherita Pizza,decideBig,2,2025-01-22,39,Italian
+10,Classic Margherita Pizza,ChristineGreene,4,2025-01-04,39,Italian
+10,Classic Margherita Pizza,WalterHarrison,4,2024-12-02,19,Italian
+10,Classic Margherita Pizza,StephanieHarris,4,2025-08-09,97,Italian
+10,Classic Margherita Pizza,HeatherCarlson,4,2025-02-01,31,Italian
+10,Classic Margherita Pizza,crazycook275,5,2024-11-30,87,Italian
+10,Classic Margherita Pizza,quickcook709,4,2025-08-09,103,Italian
+10,Classic Margherita Pizza,ChadBlevins64,3,2024-10-01,256,Italian
+10,Classic Margherita Pizza,AndrewAlvarez,4,2024-12-07,119,Italian
+10,Classic Margherita Pizza,MitchellCarpenter65,5,2025-06-04,88,Italian
+10,Classic Margherita Pizza,LauraWood,4,2025-08-18,31,Italian
+10,Classic Margherita Pizza,RachelJohnson,4,2025-03-09,37,Italian
+10,Classic Margherita Pizza,DeannaSanford,4,2025-06-15,37,Italian
+10,Classic Margherita Pizza,MarkWilson67,4,2024-11-28,41,Italian
+10,Classic Margherita Pizza,soldierProbably,5,2024-11-02,230,Italian
+10,Classic Margherita Pizza,AmyHarvey29,4,2024-10-12,262,Italian
+10,Classic Margherita Pizza,quickeater580,3,2025-03-23,158,Italian
+10,Classic Margherita Pizza,flavorDerrick,3,2025-07-24,40,Italian
+11,Nashville Hot Chicken,a,4,2025-07-12,68,American
+11,Nashville Hot Chicken,Hello,3,2024-12-12,160,American
+11,Nashville Hot Chicken,abc,3,2025-07-29,32,American
+11,Nashville Hot Chicken,s,4,2025-02-23,43,American
+11,Nashville Hot Chicken,b,4,2024-12-22,145,American
+11,Nashville Hot Chicken,ethan_is_fat,3,2025-02-16,176,American
+11,Nashville Hot Chicken,JacobIsAwesome,5,2024-11-10,119,American
+11,Nashville Hot Chicken,c,5,2024-11-04,85,American
+11,Nashville Hot Chicken,ethan,4,2024-11-02,118,American
+11,Nashville Hot Chicken,DonnaSanders,4,2024-10-12,26,American
+11,Nashville Hot Chicken,EricaCampbell15,4,2024-11-02,34,American
+11,Nashville Hot Chicken,DanielTaylor7,2,2025-06-08,50,American
+11,Nashville Hot Chicken,MichaelWalker,5,2025-01-06,33,American
+11,Nashville Hot Chicken,ScottColeman,4,2025-03-14,22,American
+11,Nashville Hot Chicken,JosephLogan4,4,2024-10-29,38,American
+11,Nashville Hot Chicken,hungrychef619,5,2024-11-15,129,American
+11,Nashville Hot Chicken,purposeEnvironmental,4,2024-11-30,30,American
+11,Nashville Hot Chicken,preventStrategy,4,2025-07-22,134,American
+11,Nashville Hot Chicken,MatthewPayne42,4,2024-11-04,110,American
+11,Nashville Hot Chicken,MatthewEstrada,4,2024-09-15,72,American
+11,Nashville Hot Chicken,togetherSurface,4,2025-01-01,89,American
+11,Nashville Hot Chicken,ElizabethClark,4,2024-12-02,165,American
+11,Nashville Hot Chicken,hungryplate56,2,2024-11-28,57,American
+11,Nashville Hot Chicken,happyfoodie957,4,2024-10-01,159,American
+11,Nashville Hot Chicken,otherDirection,3,2025-06-16,182,American
+11,Nashville Hot Chicken,culinaryKimberly,3,2025-03-09,114,American
+11,Nashville Hot Chicken,AmandaWhite79,5,2025-04-13,79,American
+11,Nashville Hot Chicken,megataster619,5,2025-08-13,114,American
+11,Nashville Hot Chicken,tasteSusan,5,2025-04-23,29,American
+11,Nashville Hot Chicken,ElizabethEvans52,5,2025-06-20,66,American
+11,Nashville Hot Chicken,KevinPope80,4,2025-02-24,195,American
+11,Nashville Hot Chicken,JasonPrince95,4,2025-01-30,44,American
+11,Nashville Hot Chicken,ShannonShelton,5,2025-03-11,140,American
+11,Nashville Hot Chicken,LauraRoberson,4,2025-01-20,143,American
+11,Nashville Hot Chicken,CraigHorn26,4,2024-11-27,37,American
+11,Nashville Hot Chicken,BrendaGlenn25,4,2025-08-19,108,American
+11,Nashville Hot Chicken,tastePaul,5,2024-10-20,75,American
+11,Nashville Hot Chicken,skillFace,4,2025-05-25,40,American
+11,Nashville Hot Chicken,AshleyStevens,4,2025-05-12,127,American
+11,Nashville Hot Chicken,fewLot,3,2025-07-08,239,American
+11,Nashville Hot Chicken,MaryParker42,4,2024-12-01,90,American
+11,Nashville Hot Chicken,sleepytaster221,3,2025-06-18,185,American
+11,Nashville Hot Chicken,MarilynWalsh,4,2025-01-20,135,American
+11,Nashville Hot Chicken,DavidKim29,5,2024-11-20,97,American
+11,Nashville Hot Chicken,AnaLopez24,4,2024-10-16,162,American
+11,Nashville Hot Chicken,awesomeplate358,4,2025-05-08,39,American
+11,Nashville Hot Chicken,FrancesKnight,1,2024-12-19,180,American
+11,Nashville Hot Chicken,YvonneTaylor16,4,2025-02-20,189,American
+11,Nashville Hot Chicken,awesomefoodie455,4,2025-04-08,233,American
+11,Nashville Hot Chicken,DawnHays89,2,2024-10-20,163,American
+11,Nashville Hot Chicken,AndrewAlvarez,3,2025-07-18,155,American
+11,Nashville Hot Chicken,LaurenLogan64,3,2024-12-17,38,American
+11,Nashville Hot Chicken,MarkWilson67,5,2025-08-13,25,American
+11,Nashville Hot Chicken,eatsCharles,4,2025-03-30,97,American
+11,Nashville Hot Chicken,KennethBailey28,4,2024-11-15,34,American
+11,Nashville Hot Chicken,DanielMendoza66,4,2025-04-28,107,American
+11,Nashville Hot Chicken,KarenStewart44,3,2025-07-06,116,American
+11,Nashville Hot Chicken,eatsCynthia,4,2024-10-01,236,American
+12,Philly Cheesesteak,a,5,2025-07-12,14,American
+12,Philly Cheesesteak,s,4,2024-09-12,34,American
+12,Philly Cheesesteak,JacobIsAwesome,4,2024-09-12,122,American
+12,Philly Cheesesteak,Hello,5,2025-06-01,108,American
+12,Philly Cheesesteak,ethan,3,2025-07-08,179,American
+12,Philly Cheesesteak,abc,4,2024-09-24,36,American
+12,Philly Cheesesteak,c,3,2024-09-01,89,American
+12,Philly Cheesesteak,b,4,2025-01-05,73,American
+12,Philly Cheesesteak,ethan_is_fat,4,2025-03-14,182,American
+12,Philly Cheesesteak,flavorKyle,3,2025-07-23,151,American
+12,Philly Cheesesteak,DawnHays89,3,2025-07-06,141,American
+12,Philly Cheesesteak,ThomasWall57,2,2024-12-05,97,American
+12,Philly Cheesesteak,kitchenLaura,3,2025-08-09,58,American
+12,Philly Cheesesteak,MichaelWalker,3,2025-07-01,44,American
+12,Philly Cheesesteak,tasteStephen,3,2025-06-16,125,American
+12,Philly Cheesesteak,AustinJones,4,2024-10-22,212,American
+12,Philly Cheesesteak,ElizabethEvans52,4,2025-02-23,110,American
+12,Philly Cheesesteak,CurtisKennedy,3,2025-08-13,45,American
+12,Philly Cheesesteak,happyfoodie957,4,2025-04-30,210,American
+12,Philly Cheesesteak,megafoodie660,4,2025-07-09,33,American
+12,Philly Cheesesteak,JaredWilson53,4,2025-03-16,42,American
+12,Philly Cheesesteak,eatsJoanna,5,2024-11-17,29,American
+12,Philly Cheesesteak,AshleyStevens,4,2025-01-22,70,American
+12,Philly Cheesesteak,MichelleWilliams5,3,2025-03-20,237,American
+12,Philly Cheesesteak,JasonPrince95,4,2025-03-01,22,American
+12,Philly Cheesesteak,ElizabethClark,4,2024-09-05,136,American
+12,Philly Cheesesteak,MichaelBrady,4,2025-02-18,92,American
+12,Philly Cheesesteak,cleverkitchen840,3,2024-10-27,252,American
+12,Philly Cheesesteak,buildBody,3,2025-07-24,65,American
+12,Philly Cheesesteak,happytaster819,3,2024-09-15,170,American
+12,Philly Cheesesteak,RichardWalker94,3,2025-06-13,50,American
+12,Philly Cheesesteak,PeterCohen,3,2024-09-02,188,American
+12,Philly Cheesesteak,preventStrategy,2,2025-06-04,184,American
+12,Philly Cheesesteak,EmmaFrank,5,2025-01-27,128,American
+12,Philly Cheesesteak,eatsMichael,4,2025-08-08,85,American
+12,Philly Cheesesteak,hungrygourmet461,3,2025-03-17,32,American
+12,Philly Cheesesteak,cookJeremy,4,2025-08-14,118,American
+12,Philly Cheesesteak,bakingSuzanne,4,2025-05-29,89,American
+12,Philly Cheesesteak,eatsMichael50,3,2025-08-03,121,American
+12,Philly Cheesesteak,JeremyShaw,5,2025-06-03,43,American
+12,Philly Cheesesteak,FrancesKnight,2,2024-11-06,188,American
+12,Philly Cheesesteak,happygourmet995,2,2025-08-17,189,American
+12,Philly Cheesesteak,bakingYolanda,3,2024-11-21,30,American
+12,Philly Cheesesteak,FrankTurner,4,2024-11-21,110,American
+12,Philly Cheesesteak,flavorJohn,3,2025-05-24,44,American
+12,Philly Cheesesteak,MelissaCarroll58,3,2025-08-21,39,American
+12,Philly Cheesesteak,MarkWilson67,3,2025-06-15,38,American
+12,Philly Cheesesteak,SandraJackson,5,2025-07-03,27,American
+12,Philly Cheesesteak,cookStephen,5,2024-09-23,29,American
+12,Philly Cheesesteak,awesomeeater694,4,2024-12-05,18,American
+12,Philly Cheesesteak,hungrytaster277,4,2024-12-29,38,American
+13,Butter Chicken,a,3,2025-07-12,25,Indian
+13,Butter Chicken,b,4,2024-09-22,78,Indian
+13,Butter Chicken,JacobIsAwesome,5,2024-12-02,151,Indian
+13,Butter Chicken,ethan_is_fat,2,2024-12-23,165,Indian
+13,Butter Chicken,ethan,4,2025-03-23,177,Indian
+13,Butter Chicken,c,5,2025-04-09,111,Indian
+13,Butter Chicken,s,3,2025-04-01,36,Indian
+13,Butter Chicken,abc,5,2024-12-28,27,Indian
+13,Butter Chicken,Hello,4,2025-05-18,125,Indian
+13,Butter Chicken,LeeDuffy29,4,2024-10-21,34,Indian
+13,Butter Chicken,remainDecide,3,2024-11-02,147,Indian
+13,Butter Chicken,DanielMartinez,3,2025-07-27,34,Indian
+13,Butter Chicken,happychef592,4,2024-09-04,90,Indian
+13,Butter Chicken,KevinPope80,2,2025-03-05,222,Indian
+13,Butter Chicken,SarahJones,3,2024-11-28,135,Indian
+13,Butter Chicken,DavidWilliams,3,2024-11-25,28,Indian
+13,Butter Chicken,tastePaul,3,2025-07-27,135,Indian
+13,Butter Chicken,GabrielGarcia,4,2025-08-07,72,Indian
+13,Butter Chicken,MatthewPayne42,1,2025-06-10,187,Indian
+13,Butter Chicken,forMarket,2,2024-09-19,143,Indian
+13,Butter Chicken,ChristineGreene,3,2024-12-28,30,Indian
+13,Butter Chicken,culinarySamantha,3,2024-11-23,138,Indian
+13,Butter Chicken,TaraStephenson,5,2025-07-03,66,Indian
+13,Butter Chicken,otherDirection,2,2025-02-18,242,Indian
+13,Butter Chicken,babyEmployee,4,2024-10-06,27,Indian
+13,Butter Chicken,happygourmet995,1,2024-11-11,141,Indian
+13,Butter Chicken,flavorChristopher,5,2025-01-11,98,Indian
+13,Butter Chicken,happybaker100,4,2025-07-05,196,Indian
+13,Butter Chicken,paintingDream,4,2025-04-08,24,Indian
+13,Butter Chicken,gourmetJenna,2,2025-05-18,22,Indian
+13,Butter Chicken,JoshuaMcfarland,3,2024-11-26,134,Indian
+13,Butter Chicken,wellSuccessful,3,2025-01-21,32,Indian
+13,Butter Chicken,ToddWagner,2,2025-08-30,141,Indian
+13,Butter Chicken,MelissaMorris61,2,2024-11-25,110,Indian
+13,Butter Chicken,AdamHart,3,2024-11-02,87,Indian
+13,Butter Chicken,howeverSingle,3,2024-10-31,93,Indian
+14,Moroccan Lamb Tagine,a,5,2025-07-12,48,Other
+14,Moroccan Lamb Tagine,ethan_is_fat,5,2025-02-17,169,Other
+14,Moroccan Lamb Tagine,Hello,3,2025-06-04,185,Other
+14,Moroccan Lamb Tagine,ethan,4,2024-09-19,132,Other
+14,Moroccan Lamb Tagine,c,5,2025-03-13,119,Other
+14,Moroccan Lamb Tagine,abc,4,2025-05-06,39,Other
+14,Moroccan Lamb Tagine,s,4,2025-06-28,27,Other
+14,Moroccan Lamb Tagine,JacobIsAwesome,5,2025-06-03,132,Other
+14,Moroccan Lamb Tagine,b,4,2024-09-07,92,Other
+14,Moroccan Lamb Tagine,DonaldTaylor,5,2025-03-08,29,Other
+14,Moroccan Lamb Tagine,ParkerCampbell87,5,2025-08-31,70,Other
+14,Moroccan Lamb Tagine,andNor,4,2024-10-30,157,Other
+14,Moroccan Lamb Tagine,MatthewHarris,4,2025-01-06,167,Other
+14,Moroccan Lamb Tagine,bakingMichael,3,2024-09-17,284,Other
+14,Moroccan Lamb Tagine,WhitneyFletcher,4,2025-02-01,20,Other
+14,Moroccan Lamb Tagine,StacySimon,4,2025-05-20,100,Other
+14,Moroccan Lamb Tagine,RobertSwanson,3,2025-01-18,35,Other
+14,Moroccan Lamb Tagine,CodyLowe41,3,2025-05-28,34,Other
+14,Moroccan Lamb Tagine,quickeater581,3,2025-03-19,211,Other
+14,Moroccan Lamb Tagine,MelvinBeard13,3,2025-05-14,125,Other
+14,Moroccan Lamb Tagine,JacobFord,4,2024-11-13,27,Other
+14,Moroccan Lamb Tagine,DannyScott46,4,2025-07-11,166,Other
+14,Moroccan Lamb Tagine,JamesMartin,4,2025-01-03,32,Other
+14,Moroccan Lamb Tagine,RachelJohnson,4,2024-10-31,37,Other
+14,Moroccan Lamb Tagine,tastePaul23,4,2025-03-12,142,Other
+14,Moroccan Lamb Tagine,gourmetSamuel,3,2024-10-13,143,Other
+14,Moroccan Lamb Tagine,DonnaSanders,4,2025-06-05,37,Other
+14,Moroccan Lamb Tagine,flavorChristopher,4,2025-04-04,95,Other
+14,Moroccan Lamb Tagine,awesomechef69,3,2025-06-30,190,Other
+14,Moroccan Lamb Tagine,SueMelton15,4,2025-08-23,29,Other
+14,Moroccan Lamb Tagine,happybaker100,3,2025-06-08,161,Other
+14,Moroccan Lamb Tagine,sisterSimilar,4,2025-05-10,114,Other
+14,Moroccan Lamb Tagine,courseFar,4,2024-09-24,213,Other
+14,Moroccan Lamb Tagine,JasonHowell72,3,2025-04-22,30,Other
+14,Moroccan Lamb Tagine,PeterCohen,4,2025-06-14,133,Other
+14,Moroccan Lamb Tagine,AudreyHowell,4,2025-07-19,43,Other
+14,Moroccan Lamb Tagine,JamesBerger34,5,2024-12-22,125,Other
+14,Moroccan Lamb Tagine,AdrianGraham32,4,2024-09-23,34,Other
+14,Moroccan Lamb Tagine,KevinPope80,5,2025-05-25,233,Other
+14,Moroccan Lamb Tagine,MarilynWalsh,3,2025-07-03,147,Other
+14,Moroccan Lamb Tagine,KarenStewart44,5,2025-05-12,79,Other
+14,Moroccan Lamb Tagine,TaylorReyes,4,2024-12-19,156,Other
+14,Moroccan Lamb Tagine,JorgeAlvarado3,4,2025-01-19,111,Other
+14,Moroccan Lamb Tagine,SharonGregory50,4,2025-07-18,88,Other
+14,Moroccan Lamb Tagine,megachef186,4,2024-11-10,26,Other
+14,Moroccan Lamb Tagine,kitchenWilliam,3,2025-01-05,65,Other
+14,Moroccan Lamb Tagine,waterItself,5,2025-02-08,95,Other
+14,Moroccan Lamb Tagine,DebraConner,4,2024-12-13,113,Other
+14,Moroccan Lamb Tagine,cleverbaker515,4,2025-01-29,33,Other
+14,Moroccan Lamb Tagine,eatsWhitney,4,2024-10-27,112,Other
+14,Moroccan Lamb Tagine,cleverbaker287,3,2025-08-15,121,Other
+14,Moroccan Lamb Tagine,southBig,4,2025-08-28,20,Other
+14,Moroccan Lamb Tagine,LauraRoberson,1,2024-10-28,156,Other
+14,Moroccan Lamb Tagine,tasteAmber,4,2025-02-25,34,Other
+14,Moroccan Lamb Tagine,SaraShelton32,4,2025-06-23,91,Other
+15,Korean Fried Chicken,a,5,2025-07-12,29,Other
+15,Korean Fried Chicken,Hello,4,2025-03-01,109,Other
+15,Korean Fried Chicken,c,5,2024-09-11,74,Other
+15,Korean Fried Chicken,s,3,2024-11-27,41,Other
+15,Korean Fried Chicken,ethan_is_fat,4,2024-12-21,141,Other
+15,Korean Fried Chicken,abc,4,2025-09-01,21,Other
+15,Korean Fried Chicken,b,3,2024-12-12,84,Other
+15,Korean Fried Chicken,ethan,4,2025-08-26,115,Other
+15,Korean Fried Chicken,JacobIsAwesome,4,2024-12-17,117,Other
+15,Korean Fried Chicken,MelissaDelgado57,2,2025-07-24,153,Other
+15,Korean Fried Chicken,hungryeater890,3,2024-12-21,178,Other
+15,Korean Fried Chicken,eatsSamantha,3,2025-03-28,176,Other
+15,Korean Fried Chicken,writeSecond,3,2024-10-19,40,Other
+15,Korean Fried Chicken,DannyScott46,3,2024-11-12,239,Other
+15,Korean Fried Chicken,flavorCorey,5,2025-06-10,85,Other
+15,Korean Fried Chicken,bakingYolanda,4,2025-02-07,42,Other
+15,Korean Fried Chicken,ElizabethClark,3,2024-12-21,160,Other
+15,Korean Fried Chicken,DylanHanna71,3,2024-12-10,66,Other
+15,Korean Fried Chicken,cleverkitchen840,3,2024-10-14,227,Other
+15,Korean Fried Chicken,EmilyBeck35,4,2025-06-12,36,Other
+15,Korean Fried Chicken,crazycook275,4,2025-05-08,97,Other
+15,Korean Fried Chicken,superkitchen643,3,2025-08-22,123,Other
+15,Korean Fried Chicken,andNor,2,2025-01-07,165,Other
+15,Korean Fried Chicken,JaredWilson53,4,2024-11-20,31,Other
+15,Korean Fried Chicken,aheadBag,3,2025-08-31,53,Other
+15,Korean Fried Chicken,DonaldTaylor,3,2025-07-21,39,Other
+15,Korean Fried Chicken,BrookeSims30,4,2024-10-19,113,Other
+15,Korean Fried Chicken,CharlesLamb,2,2025-03-29,154,Other
+15,Korean Fried Chicken,EvanRoss59,4,2025-01-20,110,Other
+15,Korean Fried Chicken,eatsMichael50,2,2025-07-28,141,Other
+15,Korean Fried Chicken,TaylorReyes,4,2025-04-26,190,Other
+15,Korean Fried Chicken,soldierProbably,2,2025-06-21,201,Other
+15,Korean Fried Chicken,PatrickTate57,4,2024-11-28,41,Other
+15,Korean Fried Chicken,SaraShelton32,4,2024-12-01,102,Other
+16,Spinach & Ricotta Stuffed Shells,a,3,2025-07-12,23,Italian
+16,Spinach & Ricotta Stuffed Shells,abc,5,2024-11-02,27,Italian
+16,Spinach & Ricotta Stuffed Shells,ethan,4,2025-05-13,200,Italian
+16,Spinach & Ricotta Stuffed Shells,s,5,2025-02-11,37,Italian
+16,Spinach & Ricotta Stuffed Shells,Hello,5,2025-02-03,181,Italian
+16,Spinach & Ricotta Stuffed Shells,JacobIsAwesome,3,2025-04-03,148,Italian
+16,Spinach & Ricotta Stuffed Shells,ethan_is_fat,5,2025-08-24,115,Italian
+16,Spinach & Ricotta Stuffed Shells,c,4,2025-06-05,108,Italian
+16,Spinach & Ricotta Stuffed Shells,b,4,2024-12-08,86,Italian
+16,Spinach & Ricotta Stuffed Shells,YvonneTaylor16,3,2025-01-10,233,Italian
+16,Spinach & Ricotta Stuffed Shells,StephanieTurner72,4,2025-01-31,119,Italian
+16,Spinach & Ricotta Stuffed Shells,quickchef643,5,2025-04-29,22,Italian
+16,Spinach & Ricotta Stuffed Shells,flavorVanessa,3,2025-01-21,30,Italian
+16,Spinach & Ricotta Stuffed Shells,SharonGregory50,4,2024-12-15,112,Italian
+16,Spinach & Ricotta Stuffed Shells,AnaLopez24,2,2025-01-23,160,Italian
+16,Spinach & Ricotta Stuffed Shells,realMiss,3,2024-10-22,238,Italian
+16,Spinach & Ricotta Stuffed Shells,causeWrong,3,2024-10-02,122,Italian
+16,Spinach & Ricotta Stuffed Shells,coverWork,5,2024-12-24,66,Italian
+16,Spinach & Ricotta Stuffed Shells,LindseySandoval,4,2025-03-20,72,Italian
+16,Spinach & Ricotta Stuffed Shells,AlexisSmith3,4,2024-09-25,75,Italian
+16,Spinach & Ricotta Stuffed Shells,shakeApply,4,2025-07-20,131,Italian
+16,Spinach & Ricotta Stuffed Shells,chefDaniel,5,2024-11-28,130,Italian
+16,Spinach & Ricotta Stuffed Shells,culinaryKimberly,3,2024-12-09,124,Italian
+16,Spinach & Ricotta Stuffed Shells,MatthewHarris,3,2025-04-01,120,Italian
+16,Spinach & Ricotta Stuffed Shells,JaredWilson53,5,2025-04-14,33,Italian
+16,Spinach & Ricotta Stuffed Shells,billLong,5,2024-09-22,134,Italian
+16,Spinach & Ricotta Stuffed Shells,allLight,4,2024-10-03,29,Italian
+16,Spinach & Ricotta Stuffed Shells,KimberlyIngram,5,2025-02-21,87,Italian
+16,Spinach & Ricotta Stuffed Shells,AdrianGraham32,3,2025-06-25,39,Italian
+16,Spinach & Ricotta Stuffed Shells,StacySimon,4,2024-11-24,71,Italian
+16,Spinach & Ricotta Stuffed Shells,HeatherMedina1,4,2025-05-11,74,Italian
+16,Spinach & Ricotta Stuffed Shells,cleverbaker515,3,2025-01-14,44,Italian
+16,Spinach & Ricotta Stuffed Shells,KarenStewart44,4,2024-12-24,86,Italian
+16,Spinach & Ricotta Stuffed Shells,KimberlyGriffith,2,2025-07-07,134,Italian
+16,Spinach & Ricotta Stuffed Shells,MitchellCarpenter65,4,2024-11-05,96,Italian
+16,Spinach & Ricotta Stuffed Shells,JasonHowell72,4,2025-07-08,31,Italian
+16,Spinach & Ricotta Stuffed Shells,KennethHawkins26,3,2024-11-05,40,Italian
+16,Spinach & Ricotta Stuffed Shells,soldierProbably,5,2025-08-06,247,Italian
+16,Spinach & Ricotta Stuffed Shells,HeatherNelson,3,2025-01-22,142,Italian
+16,Spinach & Ricotta Stuffed Shells,eatsMegan,4,2025-08-20,126,Italian
+16,Spinach & Ricotta Stuffed Shells,tasteJohn,4,2024-10-08,103,Italian
+16,Spinach & Ricotta Stuffed Shells,riskScience,4,2024-09-18,67,Italian
+16,Spinach & Ricotta Stuffed Shells,JamesMartin,4,2025-05-29,48,Italian
+16,Spinach & Ricotta Stuffed Shells,systemNation,4,2025-05-09,131,Italian
+16,Spinach & Ricotta Stuffed Shells,ScottColeman,4,2024-10-06,38,Italian
+16,Spinach & Ricotta Stuffed Shells,JohnHopkins,4,2025-02-19,116,Italian
+16,Spinach & Ricotta Stuffed Shells,DanielMartinez,3,2024-09-04,28,Italian
+16,Spinach & Ricotta Stuffed Shells,EmmaFrank,4,2025-07-28,92,Italian
+17,Grilled Halloumi & Couscous Salad,a,3,2025-07-12,19,Greek
+17,Grilled Halloumi & Couscous Salad,ethan_is_fat,3,2025-03-04,166,Greek
+17,Grilled Halloumi & Couscous Salad,s,4,2025-03-27,32,Greek
+17,Grilled Halloumi & Couscous Salad,Hello,5,2024-09-24,124,Greek
+17,Grilled Halloumi & Couscous Salad,c,4,2025-06-05,111,Greek
+17,Grilled Halloumi & Couscous Salad,abc,5,2025-02-17,38,Greek
+17,Grilled Halloumi & Couscous Salad,ethan,3,2024-10-24,160,Greek
+17,Grilled Halloumi & Couscous Salad,b,4,2025-02-28,75,Greek
+17,Grilled Halloumi & Couscous Salad,JacobIsAwesome,4,2025-03-17,157,Greek
+17,Grilled Halloumi & Couscous Salad,DanielMyers80,4,2025-08-14,25,Greek
+17,Grilled Halloumi & Couscous Salad,JessicaCooper80,5,2025-06-14,32,Greek
+17,Grilled Halloumi & Couscous Salad,ParkerCampbell87,4,2025-02-22,155,Greek
+17,Grilled Halloumi & Couscous Salad,chefDaniel,4,2025-04-22,178,Greek
+17,Grilled Halloumi & Couscous Salad,NicoleGarcia,4,2025-05-07,118,Greek
+17,Grilled Halloumi & Couscous Salad,hungrychef619,4,2025-07-14,176,Greek
+17,Grilled Halloumi & Couscous Salad,StephanieAtkinson,4,2025-04-23,118,Greek
+17,Grilled Halloumi & Couscous Salad,LaurenLogan64,4,2024-12-28,34,Greek
+17,Grilled Halloumi & Couscous Salad,ChristianMontgomery56,3,2025-03-20,158,Greek
+17,Grilled Halloumi & Couscous Salad,headHalf,4,2025-01-02,34,Greek
+17,Grilled Halloumi & Couscous Salad,sleepybaker197,3,2024-12-18,124,Greek
+17,Grilled Halloumi & Couscous Salad,MelissaMoore92,5,2025-06-26,124,Greek
+17,Grilled Halloumi & Couscous Salad,eatsWhitney,4,2024-09-23,209,Greek
+17,Grilled Halloumi & Couscous Salad,flavorDerrick,4,2025-05-21,33,Greek
+17,Grilled Halloumi & Couscous Salad,MelissaMorris61,4,2024-09-27,67,Greek
+17,Grilled Halloumi & Couscous Salad,awesomeeater694,3,2025-01-23,34,Greek
+17,Grilled Halloumi & Couscous Salad,JorgeAlvarado3,4,2025-07-12,99,Greek
+17,Grilled Halloumi & Couscous Salad,soldierProbably,3,2025-07-24,262,Greek
+17,Grilled Halloumi & Couscous Salad,tasteJohn,5,2025-08-14,91,Greek
+17,Grilled Halloumi & Couscous Salad,superchef920,4,2025-06-29,104,Greek
+17,Grilled Halloumi & Couscous Salad,awesomechef635,5,2025-06-11,79,Greek
+17,Grilled Halloumi & Couscous Salad,AmyHarvey29,3,2024-11-07,287,Greek
+17,Grilled Halloumi & Couscous Salad,JaredWilson53,4,2024-11-29,29,Greek
+17,Grilled Halloumi & Couscous Salad,waterItself,5,2025-04-11,67,Greek
+17,Grilled Halloumi & Couscous Salad,chefKatelyn,5,2025-08-29,88,Greek
+17,Grilled Halloumi & Couscous Salad,SaraShelton32,4,2025-08-24,94,Greek
+17,Grilled Halloumi & Couscous Salad,DanielBeard79,3,2024-12-28,215,Greek
+17,Grilled Halloumi & Couscous Salad,HeatherMoore3,4,2025-04-08,33,Greek
+17,Grilled Halloumi & Couscous Salad,DannyScott46,3,2024-11-30,196,Greek
+17,Grilled Halloumi & Couscous Salad,cleverbaker515,5,2025-02-07,29,Greek
+17,Grilled Halloumi & Couscous Salad,bakingYolanda,3,2024-11-13,30,Greek
+17,Grilled Halloumi & Couscous Salad,StephanieHarris,5,2024-10-17,97,Greek
+17,Grilled Halloumi & Couscous Salad,AndreaDrake,4,2024-12-21,138,Greek
+17,Grilled Halloumi & Couscous Salad,happyfoodie957,4,2025-02-15,254,Greek
+17,Grilled Halloumi & Couscous Salad,AustinSosa,4,2025-06-25,35,Greek
+17,Grilled Halloumi & Couscous Salad,KevinPope80,4,2025-07-13,173,Greek
+17,Grilled Halloumi & Couscous Salad,PhillipWalton58,4,2025-07-02,66,Greek
+17,Grilled Halloumi & Couscous Salad,sleepyplate61,4,2025-06-15,163,Greek
+17,Grilled Halloumi & Couscous Salad,budgetHundred,2,2025-06-02,189,Greek
+17,Grilled Halloumi & Couscous Salad,RobertWalsh,4,2024-09-30,74,Greek
+17,Grilled Halloumi & Couscous Salad,HeatherNelson,4,2025-08-01,73,Greek
+17,Grilled Halloumi & Couscous Salad,JenniferCastro,4,2024-09-16,25,Greek
+17,Grilled Halloumi & Couscous Salad,MelissaHughes,4,2024-12-29,193,Greek
+17,Grilled Halloumi & Couscous Salad,changeSpeech,4,2025-07-11,111,Greek
+17,Grilled Halloumi & Couscous Salad,FrancesKnight,4,2025-07-22,118,Greek
+17,Grilled Halloumi & Couscous Salad,TylerLogan80,4,2025-07-09,37,Greek
+17,Grilled Halloumi & Couscous Salad,BenjaminFisher99,3,2025-04-15,169,Greek
+17,Grilled Halloumi & Couscous Salad,MelissaDelgado57,4,2025-01-31,115,Greek
+18,Tex-Mex Beef Tacos,a,5,2025-07-12,32,Mexican
+18,Tex-Mex Beef Tacos,JacobIsAwesome,4,2025-06-15,133,Mexican
+18,Tex-Mex Beef Tacos,Hello,3,2025-03-18,163,Mexican
+18,Tex-Mex Beef Tacos,s,4,2025-01-25,31,Mexican
+18,Tex-Mex Beef Tacos,abc,3,2025-03-01,37,Mexican
+18,Tex-Mex Beef Tacos,b,5,2025-07-18,83,Mexican
+18,Tex-Mex Beef Tacos,ethan_is_fat,4,2025-02-12,133,Mexican
+18,Tex-Mex Beef Tacos,ethan,4,2025-05-12,177,Mexican
+18,Tex-Mex Beef Tacos,c,3,2025-07-12,68,Mexican
+18,Tex-Mex Beef Tacos,superkitchen643,3,2025-05-23,165,Mexican
+18,Tex-Mex Beef Tacos,happyfoodie957,2,2025-02-22,155,Mexican
+18,Tex-Mex Beef Tacos,cookStephen,5,2025-02-01,32,Mexican
+18,Tex-Mex Beef Tacos,MichelleSmith,4,2024-11-04,250,Mexican
+18,Tex-Mex Beef Tacos,happyplate717,5,2024-12-06,113,Mexican
+18,Tex-Mex Beef Tacos,KristinGibson12,2,2025-04-01,168,Mexican
+18,Tex-Mex Beef Tacos,significantStrategy,3,2024-12-17,37,Mexican
+18,Tex-Mex Beef Tacos,AlexisSmith3,5,2025-08-27,85,Mexican
+18,Tex-Mex Beef Tacos,decideBig,4,2025-04-16,31,Mexican
+18,Tex-Mex Beef Tacos,superchef920,4,2025-01-18,76,Mexican
+18,Tex-Mex Beef Tacos,sleepyplate61,4,2025-08-30,156,Mexican
+18,Tex-Mex Beef Tacos,fireDoctor,2,2025-04-08,156,Mexican
+18,Tex-Mex Beef Tacos,StacySimon,4,2025-07-30,67,Mexican
+18,Tex-Mex Beef Tacos,kitchenCory,5,2024-12-25,31,Mexican
+18,Tex-Mex Beef Tacos,JasonPrince95,5,2025-04-21,39,Mexican
+18,Tex-Mex Beef Tacos,MelissaMoore92,3,2024-11-30,75,Mexican
+18,Tex-Mex Beef Tacos,sleepygourmet925,4,2025-06-11,25,Mexican
+18,Tex-Mex Beef Tacos,AustinSosa,4,2025-03-08,34,Mexican
+18,Tex-Mex Beef Tacos,AmandaMunoz75,4,2025-05-06,34,Mexican
+18,Tex-Mex Beef Tacos,cleverkitchen840,4,2025-07-27,212,Mexican
+18,Tex-Mex Beef Tacos,JenniferJacobs,5,2024-10-02,25,Mexican
+18,Tex-Mex Beef Tacos,AnnLopez54,3,2025-08-23,28,Mexican
+18,Tex-Mex Beef Tacos,riskScience,3,2025-01-26,73,Mexican
+18,Tex-Mex Beef Tacos,cookKerry,3,2024-12-31,160,Mexican
+18,Tex-Mex Beef Tacos,DanielMendoza66,3,2024-11-26,79,Mexican
+18,Tex-Mex Beef Tacos,AustinJones,5,2024-12-29,239,Mexican
+18,Tex-Mex Beef Tacos,eatsSamantha,4,2025-04-25,194,Mexican
+18,Tex-Mex Beef Tacos,kitchenTracy,5,2025-06-08,119,Mexican
+18,Tex-Mex Beef Tacos,MichaelSnyder99,4,2024-12-15,97,Mexican
+18,Tex-Mex Beef Tacos,kitchenLaura,3,2024-09-11,48,Mexican
+18,Tex-Mex Beef Tacos,MartinBrowning,4,2024-09-15,21,Mexican
+18,Tex-Mex Beef Tacos,EmmaFrank,5,2025-05-11,94,Mexican
+18,Tex-Mex Beef Tacos,tasteAmber,3,2025-07-10,37,Mexican
+18,Tex-Mex Beef Tacos,soMoment,4,2025-07-06,68,Mexican
+18,Tex-Mex Beef Tacos,DanielMartinez,5,2024-09-16,29,Mexican
+18,Tex-Mex Beef Tacos,DonaldTaylor,4,2024-12-02,44,Mexican
+18,Tex-Mex Beef Tacos,eatsAndrea98,1,2025-04-30,149,Mexican
+18,Tex-Mex Beef Tacos,PatrickNguyen,4,2024-11-30,70,Mexican
+18,Tex-Mex Beef Tacos,MaryParker42,4,2025-05-05,75,Mexican
+18,Tex-Mex Beef Tacos,LynnDuarte12,5,2025-05-17,120,Mexican
+18,Tex-Mex Beef Tacos,ScottSmith46,4,2025-02-12,34,Mexican
+18,Tex-Mex Beef Tacos,foodieNicole,3,2025-07-16,91,Mexican
+18,Tex-Mex Beef Tacos,cookJeremy,5,2024-09-16,136,Mexican
+18,Tex-Mex Beef Tacos,clevereater932,4,2025-07-26,99,Mexican
+18,Tex-Mex Beef Tacos,gourmetMary,3,2024-10-20,253,Mexican
+18,Tex-Mex Beef Tacos,happytaster819,5,2025-02-20,78,Mexican
+18,Tex-Mex Beef Tacos,cleverplate306,4,2025-03-30,22,Mexican
+18,Tex-Mex Beef Tacos,StanleyBaker6,4,2024-11-26,85,Mexican
+19,Thai Green Curry with Tofu,a,1,2025-07-12,17,Thai
+19,Thai Green Curry with Tofu,JacobIsAwesome,5,2024-09-11,169,Thai
+19,Thai Green Curry with Tofu,c,3,2025-06-28,59,Thai
+19,Thai Green Curry with Tofu,s,5,2025-03-12,39,Thai
+19,Thai Green Curry with Tofu,Hello,3,2025-07-10,185,Thai
+19,Thai Green Curry with Tofu,abc,3,2025-01-25,40,Thai
+19,Thai Green Curry with Tofu,b,5,2024-12-21,74,Thai
+19,Thai Green Curry with Tofu,ethan_is_fat,3,2025-05-23,163,Thai
+19,Thai Green Curry with Tofu,ethan,3,2025-06-12,149,Thai
+19,Thai Green Curry with Tofu,RobertFerguson86,4,2025-02-12,33,Thai
+19,Thai Green Curry with Tofu,CarlosEstrada,4,2024-09-27,27,Thai
+19,Thai Green Curry with Tofu,treatmentHuman,3,2024-11-25,150,Thai
+19,Thai Green Curry with Tofu,ChristianMontgomery56,4,2025-04-14,139,Thai
+19,Thai Green Curry with Tofu,AnitaSpence84,4,2025-07-07,136,Thai
+19,Thai Green Curry with Tofu,MistyHunt,5,2025-08-19,37,Thai
+19,Thai Green Curry with Tofu,bakingLinda,5,2025-03-24,97,Thai
+19,Thai Green Curry with Tofu,bakingPeter,5,2025-03-28,90,Thai
+19,Thai Green Curry with Tofu,KendraRoth90,4,2025-02-17,126,Thai
+19,Thai Green Curry with Tofu,JimTaylor,5,2025-04-27,109,Thai
+19,Thai Green Curry with Tofu,AshleyStevens,4,2024-10-15,75,Thai
+19,Thai Green Curry with Tofu,AndreHale,4,2025-05-04,120,Thai
+19,Thai Green Curry with Tofu,receiveFor,5,2024-11-23,92,Thai
+19,Thai Green Curry with Tofu,StephanieHarris,3,2024-12-30,69,Thai
+19,Thai Green Curry with Tofu,culinarySamantha,3,2025-08-23,130,Thai
+19,Thai Green Curry with Tofu,remainCitizen,3,2025-08-04,208,Thai
+19,Thai Green Curry with Tofu,eatsCandice,4,2024-11-09,162,Thai
+19,Thai Green Curry with Tofu,AustinJones,4,2025-04-12,166,Thai
+19,Thai Green Curry with Tofu,MelissaMoore92,4,2025-08-04,92,Thai
+19,Thai Green Curry with Tofu,JasonPrince95,3,2025-08-07,41,Thai
+19,Thai Green Curry with Tofu,SueMelton15,4,2025-04-10,29,Thai
+19,Thai Green Curry with Tofu,sleepyplate138,5,2025-03-08,65,Thai
+19,Thai Green Curry with Tofu,systemNation,3,2025-07-29,126,Thai
+19,Thai Green Curry with Tofu,MarilynWalsh,4,2024-11-10,121,Thai
+19,Thai Green Curry with Tofu,GabrielGarcia,5,2024-09-07,91,Thai
+19,Thai Green Curry with Tofu,buildBody,5,2025-03-13,99,Thai
+19,Thai Green Curry with Tofu,TrevorGonzalez,4,2025-04-03,96,Thai
+19,Thai Green Curry with Tofu,CherylGray77,5,2025-05-26,69,Thai
+19,Thai Green Curry with Tofu,cleverplate306,4,2025-02-12,31,Thai
+19,Thai Green Curry with Tofu,waterItself,5,2025-08-18,120,Thai
+19,Thai Green Curry with Tofu,chefBlake,4,2024-10-27,96,Thai
+19,Thai Green Curry with Tofu,ShannonShelton,4,2025-06-11,143,Thai
+20,BBQ Pulled Pork Sandwich,a,1,2025-07-12,77,American
+20,BBQ Pulled Pork Sandwich,Hello,4,2025-03-02,119,American
+20,BBQ Pulled Pork Sandwich,JacobIsAwesome,4,2025-03-15,113,American
+20,BBQ Pulled Pork Sandwich,c,5,2024-12-07,87,American
+20,BBQ Pulled Pork Sandwich,b,2,2025-07-01,84,American
+20,BBQ Pulled Pork Sandwich,s,3,2024-10-07,35,American
+20,BBQ Pulled Pork Sandwich,ethan,5,2025-08-09,112,American
+20,BBQ Pulled Pork Sandwich,ethan_is_fat,5,2025-02-17,112,American
+20,BBQ Pulled Pork Sandwich,abc,4,2025-01-09,33,American
+20,BBQ Pulled Pork Sandwich,MichelleWilliams5,3,2025-02-02,176,American
+20,BBQ Pulled Pork Sandwich,billLong,5,2024-09-13,111,American
+20,BBQ Pulled Pork Sandwich,sleepyeater845,3,2025-03-09,206,American
+20,BBQ Pulled Pork Sandwich,remainDecide,4,2025-08-22,173,American
+20,BBQ Pulled Pork Sandwich,megafoodie660,4,2025-06-24,21,American
+20,BBQ Pulled Pork Sandwich,otherDirection,4,2025-08-09,229,American
+20,BBQ Pulled Pork Sandwich,YvonneTaylor16,4,2025-04-30,214,American
+20,BBQ Pulled Pork Sandwich,cleverkitchen840,4,2025-08-24,241,American
+20,BBQ Pulled Pork Sandwich,causeWrong,3,2025-02-14,157,American
+20,BBQ Pulled Pork Sandwich,sleepyplate138,4,2025-06-22,63,American
+20,BBQ Pulled Pork Sandwich,systemNation,4,2025-05-11,126,American
+20,BBQ Pulled Pork Sandwich,governmentYoung,4,2025-01-25,96,American
+20,BBQ Pulled Pork Sandwich,gourmetJenna,3,2025-01-23,31,American
+20,BBQ Pulled Pork Sandwich,KimberlyIngram,4,2024-12-23,70,American
+20,BBQ Pulled Pork Sandwich,DouglasMeadows10,4,2025-05-07,27,American
+20,BBQ Pulled Pork Sandwich,JohnHopkins,4,2025-06-25,97,American
+20,BBQ Pulled Pork Sandwich,SharonGregory50,4,2025-08-16,69,American
+20,BBQ Pulled Pork Sandwich,courseFar,5,2024-12-16,160,American
+20,BBQ Pulled Pork Sandwich,sleepybaker197,2,2025-07-24,158,American
+20,BBQ Pulled Pork Sandwich,treatmentHuman,4,2025-04-03,141,American
+20,BBQ Pulled Pork Sandwich,forMarket,3,2024-12-11,177,American
+20,BBQ Pulled Pork Sandwich,tasteJohn,4,2025-04-28,66,American
+20,BBQ Pulled Pork Sandwich,flavorLeah,3,2025-03-27,162,American
+20,BBQ Pulled Pork Sandwich,DonnaSanders,5,2025-07-18,20,American
+20,BBQ Pulled Pork Sandwich,MarilynWalsh,4,2025-08-05,180,American
+20,BBQ Pulled Pork Sandwich,gourmetKathryn,4,2024-12-17,38,American
+20,BBQ Pulled Pork Sandwich,daughterMe,2,2025-08-19,159,American
+20,BBQ Pulled Pork Sandwich,PaulDeleon47,3,2024-12-28,161,American
+20,BBQ Pulled Pork Sandwich,LeslieSmith,3,2024-09-08,53,American
+20,BBQ Pulled Pork Sandwich,HeatherMoore3,4,2025-04-08,35,American
+21,Eggplant Parmesan,a,4,2025-07-12,52,Italian
+21,Eggplant Parmesan,b,4,2024-10-01,108,Italian
+21,Eggplant Parmesan,Hello,3,2025-02-28,143,Italian
+21,Eggplant Parmesan,s,3,2025-07-19,38,Italian
+21,Eggplant Parmesan,abc,3,2025-01-03,40,Italian
+21,Eggplant Parmesan,ethan,5,2025-04-20,133,Italian
+21,Eggplant Parmesan,ethan_is_fat,3,2025-02-27,149,Italian
+21,Eggplant Parmesan,JacobIsAwesome,5,2024-12-01,141,Italian
+21,Eggplant Parmesan,c,4,2024-12-01,79,Italian
+21,Eggplant Parmesan,JennaPorter,5,2025-06-03,117,Italian
+21,Eggplant Parmesan,sleepycook699,3,2025-05-29,26,Italian
+21,Eggplant Parmesan,gourmetRobin,5,2025-07-30,115,Italian
+21,Eggplant Parmesan,treatmentHuman,4,2025-05-24,116,Italian
+21,Eggplant Parmesan,soMoment,4,2025-04-04,111,Italian
+21,Eggplant Parmesan,watchReveal,4,2025-08-31,67,Italian
+21,Eggplant Parmesan,regionLeast,5,2025-04-06,76,Italian
+21,Eggplant Parmesan,flavorKathleen,1,2025-01-24,52,Italian
+21,Eggplant Parmesan,flavorVanessa,3,2025-04-16,38,Italian
+21,Eggplant Parmesan,sleepygourmet925,3,2024-12-21,41,Italian
+21,Eggplant Parmesan,hungrychef619,2,2025-08-04,146,Italian
+21,Eggplant Parmesan,budgetHundred,1,2024-12-28,177,Italian
+21,Eggplant Parmesan,receiveFor,4,2025-03-02,126,Italian
+21,Eggplant Parmesan,AndrewAlvarez,3,2025-06-30,147,Italian
+21,Eggplant Parmesan,tastePaul,5,2025-05-01,87,Italian
+21,Eggplant Parmesan,babyEmployee,3,2025-01-29,48,Italian
+21,Eggplant Parmesan,bakingYolanda,4,2025-01-26,27,Italian
+21,Eggplant Parmesan,AnitaSpence84,4,2025-06-01,165,Italian
+21,Eggplant Parmesan,CherylGray77,4,2025-02-04,112,Italian
+21,Eggplant Parmesan,JamesMartin,3,2024-11-01,38,Italian
+21,Eggplant Parmesan,flavorCorey,4,2024-12-25,84,Italian
+21,Eggplant Parmesan,awesomekitchen332,1,2024-12-23,143,Italian
+21,Eggplant Parmesan,RachelJohnson,5,2025-01-17,31,Italian
+21,Eggplant Parmesan,TaraStephenson,3,2025-08-30,105,Italian
+21,Eggplant Parmesan,tripNation,4,2024-09-01,109,Italian
+21,Eggplant Parmesan,CodyLowe41,3,2025-04-05,32,Italian
+21,Eggplant Parmesan,ElizabethEvans52,5,2025-07-07,64,Italian
+21,Eggplant Parmesan,forMarket,4,2025-04-20,114,Italian
+21,Eggplant Parmesan,AaronBrown42,3,2024-10-06,190,Italian
+21,Eggplant Parmesan,cutGirl,4,2024-11-03,149,Italian
+21,Eggplant Parmesan,SamanthaBartlett58,3,2024-12-04,78,Italian
+21,Eggplant Parmesan,TanyaRiley94,4,2025-08-29,38,Italian
+21,Eggplant Parmesan,MartinBrowning,4,2025-08-17,37,Italian
+21,Eggplant Parmesan,magazineMeeting,4,2024-12-19,24,Italian
+21,Eggplant Parmesan,MelvinBeard13,5,2025-08-14,108,Italian
+21,Eggplant Parmesan,AndreHale,4,2025-03-16,68,Italian
+22,Teriyaki Salmon Bowl,a,1,2025-07-12,114,Japanese
+22,Teriyaki Salmon Bowl,JacobIsAwesome,5,2024-11-16,119,Japanese
+22,Teriyaki Salmon Bowl,b,3,2025-07-12,106,Japanese
+22,Teriyaki Salmon Bowl,s,4,2025-02-27,25,Japanese
+22,Teriyaki Salmon Bowl,Hello,4,2025-06-25,137,Japanese
+22,Teriyaki Salmon Bowl,abc,4,2025-08-01,37,Japanese
+22,Teriyaki Salmon Bowl,c,5,2025-07-09,113,Japanese
+22,Teriyaki Salmon Bowl,ethan_is_fat,4,2024-11-24,131,Japanese
+22,Teriyaki Salmon Bowl,ethan,5,2025-05-09,137,Japanese
+22,Teriyaki Salmon Bowl,cookJason,2,2024-12-02,129,Japanese
+22,Teriyaki Salmon Bowl,crazytaster748,4,2024-11-07,35,Japanese
+22,Teriyaki Salmon Bowl,coldRich,4,2025-07-08,27,Japanese
+22,Teriyaki Salmon Bowl,MichaelWalker,4,2025-01-24,32,Japanese
+22,Teriyaki Salmon Bowl,sleepybaker197,2,2024-11-02,153,Japanese
+22,Teriyaki Salmon Bowl,coverWork,5,2025-03-07,120,Japanese
+22,Teriyaki Salmon Bowl,DanielMendoza66,4,2025-06-15,98,Japanese
+22,Teriyaki Salmon Bowl,sleepytaster221,4,2025-05-25,241,Japanese
+22,Teriyaki Salmon Bowl,KimberlyIngram,5,2025-07-04,89,Japanese
+22,Teriyaki Salmon Bowl,cookStephen,3,2025-04-06,41,Japanese
+22,Teriyaki Salmon Bowl,flavorAndre,3,2025-03-15,190,Japanese
+22,Teriyaki Salmon Bowl,DylanHanna71,4,2025-08-09,82,Japanese
+22,Teriyaki Salmon Bowl,watchReveal,3,2024-11-11,66,Japanese
+22,Teriyaki Salmon Bowl,ShannonShelton,3,2025-03-29,154,Japanese
+22,Teriyaki Salmon Bowl,LynnDuarte12,5,2025-01-04,70,Japanese
+22,Teriyaki Salmon Bowl,AlecScott,5,2025-03-15,25,Japanese
+22,Teriyaki Salmon Bowl,JesseBarry52,3,2025-03-16,215,Japanese
+22,Teriyaki Salmon Bowl,babyEmployee,5,2025-05-07,39,Japanese
+22,Teriyaki Salmon Bowl,riskScience,5,2024-09-01,73,Japanese
+22,Teriyaki Salmon Bowl,KennethBailey28,4,2025-05-14,29,Japanese
+22,Teriyaki Salmon Bowl,JamesRobinson28,2,2025-02-08,213,Japanese
+22,Teriyaki Salmon Bowl,awesometaster645,4,2024-12-17,111,Japanese
+22,Teriyaki Salmon Bowl,EmmaFrank,3,2025-07-06,132,Japanese
+22,Teriyaki Salmon Bowl,JohnSnyder19,3,2024-10-16,162,Japanese
+22,Teriyaki Salmon Bowl,JamesUnderwood,5,2025-08-19,35,Japanese
+22,Teriyaki Salmon Bowl,TylerKeller,5,2025-07-01,119,Japanese
+22,Teriyaki Salmon Bowl,andNor,1,2024-10-19,160,Japanese
+22,Teriyaki Salmon Bowl,AdrianGraham32,5,2025-04-08,38,Japanese
+22,Teriyaki Salmon Bowl,AnitaSpence84,2,2025-05-08,193,Japanese
+22,Teriyaki Salmon Bowl,cleverkitchen840,3,2025-05-19,210,Japanese
+22,Teriyaki Salmon Bowl,eatsCynthia,3,2025-06-01,222,Japanese
+22,Teriyaki Salmon Bowl,magazineMeeting,3,2025-06-15,28,Japanese
+22,Teriyaki Salmon Bowl,JosephPeck,4,2024-09-18,143,Japanese
+22,Teriyaki Salmon Bowl,eatsJoanna,3,2024-10-19,33,Japanese
+22,Teriyaki Salmon Bowl,JenniferCastro,3,2024-09-21,41,Japanese
+22,Teriyaki Salmon Bowl,awesomekitchen529,2,2025-04-28,167,Japanese
+22,Teriyaki Salmon Bowl,cleverplate912,4,2025-04-23,164,Japanese
+22,Teriyaki Salmon Bowl,BrookeSims30,3,2025-01-25,154,Japanese
+22,Teriyaki Salmon Bowl,changeSpeech,3,2024-10-26,108,Japanese
+22,Teriyaki Salmon Bowl,springAnimal,4,2025-02-06,93,Japanese
+23,Butternut Squash Soup,a,5,2025-07-12,126,Other
+23,Butternut Squash Soup,s,4,2025-02-15,44,Other
+23,Butternut Squash Soup,abc,4,2025-04-07,17,Other
+23,Butternut Squash Soup,ethan_is_fat,5,2024-11-30,140,Other
+23,Butternut Squash Soup,JacobIsAwesome,4,2025-05-05,118,Other
+23,Butternut Squash Soup,Hello,4,2025-08-29,147,Other
+23,Butternut Squash Soup,c,5,2025-08-19,88,Other
+23,Butternut Squash Soup,ethan,4,2025-03-13,143,Other
+23,Butternut Squash Soup,b,5,2025-04-18,76,Other
+23,Butternut Squash Soup,DonGay91,3,2024-09-12,38,Other
+23,Butternut Squash Soup,KimberlyGriffith,2,2025-09-01,139,Other
+23,Butternut Squash Soup,MatthewEstrada,4,2024-12-27,112,Other
+23,Butternut Squash Soup,AmandaWhite79,4,2024-12-11,99,Other
+23,Butternut Squash Soup,EmmaFrank,3,2024-10-12,78,Other
+23,Butternut Squash Soup,JasonPrince95,3,2024-11-17,31,Other
+23,Butternut Squash Soup,MichaelWalker,4,2025-07-15,30,Other
+23,Butternut Squash Soup,TaylorReyes,4,2024-11-25,241,Other
+23,Butternut Squash Soup,MichaelBrady,4,2025-03-08,106,Other
+23,Butternut Squash Soup,AshleyStevens,4,2024-09-12,112,Other
+23,Butternut Squash Soup,sleepybaker197,3,2025-07-06,126,Other
+23,Butternut Squash Soup,DannySoto,4,2025-04-25,95,Other
+23,Butternut Squash Soup,SarahJones,3,2025-08-17,84,Other
+23,Butternut Squash Soup,DanielMyers80,3,2025-07-22,36,Other
+23,Butternut Squash Soup,megataster619,2,2024-10-22,59,Other
+23,Butternut Squash Soup,preventStrategy,3,2024-09-17,162,Other
+23,Butternut Squash Soup,socialHappen,4,2025-01-02,88,Other
+23,Butternut Squash Soup,hungrychef619,2,2025-04-12,136,Other
+23,Butternut Squash Soup,bakingYolanda,3,2025-08-05,33,Other
+23,Butternut Squash Soup,changeSpeech,4,2025-07-09,126,Other
+23,Butternut Squash Soup,AngelaChristian,5,2025-03-20,27,Other
+23,Butternut Squash Soup,RebeccaJackson50,4,2024-10-27,27,Other
+23,Butternut Squash Soup,taxPerson,4,2025-08-17,124,Other
+23,Butternut Squash Soup,gourmetChristopher,5,2025-08-06,33,Other
+23,Butternut Squash Soup,bakingKaren,4,2024-09-12,69,Other
+23,Butternut Squash Soup,tasteSusan,3,2024-09-06,26,Other
+23,Butternut Squash Soup,chefDaniel,2,2024-12-28,187,Other
+23,Butternut Squash Soup,AustinSosa,3,2025-08-10,44,Other
+23,Butternut Squash Soup,superchef920,4,2025-06-28,97,Other
+23,Butternut Squash Soup,bakingLinda,4,2025-07-22,124,Other
+23,Butternut Squash Soup,hungryeater890,3,2025-01-13,189,Other
+23,Butternut Squash Soup,forMarket,4,2024-09-20,114,Other
+23,Butternut Squash Soup,MariahReid,4,2024-09-07,37,Other
+23,Butternut Squash Soup,DawnGallegos,4,2025-09-01,25,Other
+23,Butternut Squash Soup,KristinGibson12,2,2024-10-26,168,Other
+23,Butternut Squash Soup,gourmetMary,3,2025-07-25,249,Other
+23,Butternut Squash Soup,crazytaster748,3,2025-05-12,39,Other
+23,Butternut Squash Soup,awesomechef635,4,2025-07-31,113,Other
+23,Butternut Squash Soup,KarenStewart44,5,2024-10-25,72,Other
+23,Butternut Squash Soup,TrevorGonzalez,4,2025-08-28,112,Other
+25,Vietnamese Phá»Ÿ BÃ²,a,1,2025-07-12,99,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,Hello,4,2025-02-16,184,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,abc,3,2025-06-21,32,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,c,5,2025-05-31,109,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,JacobIsAwesome,3,2024-11-08,153,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,ethan,5,2025-03-31,134,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,ethan_is_fat,4,2024-10-22,132,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,b,4,2025-04-01,80,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,s,3,2024-12-06,33,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,culinarySamantha,5,2024-11-02,100,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,JasonHowell72,5,2024-09-28,34,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,socialHappen,3,2024-09-05,107,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,remainDecide,3,2024-10-26,163,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,EugeneFreeman91,3,2025-06-30,125,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,eatsMichael50,4,2025-01-16,111,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,RobertSwanson,4,2024-09-07,25,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,SamanthaBartlett58,4,2024-09-25,80,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,MelissaHughes,3,2024-09-13,127,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,AmyHarvey29,5,2024-10-11,230,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,PaulDeleon47,3,2025-04-12,86,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,OscarHarris84,3,2024-12-24,118,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,TylerHoffman90,3,2025-06-29,48,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,happygourmet995,4,2025-06-24,137,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,SarahJones,4,2025-06-10,125,Vietnamese
+25,Vietnamese Phá»Ÿ BÃ²,MatthewPayne42,3,2024-09-20,158,Vietnamese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),abc,3,2025-08-31,39,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),b,5,2024-11-09,66,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),c,4,2024-11-04,123,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),s,5,2025-02-28,29,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),ethan_is_fat,4,2024-09-12,205,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),a,5,2024-10-11,22,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),Hello,3,2025-06-21,167,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),ethan,4,2025-03-16,122,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),JacobIsAwesome,4,2025-01-30,173,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),quickcook709,5,2025-06-10,77,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),ChristineGreene,3,2025-03-19,45,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),watchReveal,4,2025-09-01,84,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),KennethBailey28,4,2025-06-07,35,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),BenjaminFisher99,3,2024-09-19,187,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),flavorKyle,3,2024-11-24,156,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),cookStephen,4,2025-08-26,35,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),gourmetSamuel,2,2025-02-15,107,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),tasteJohn,4,2025-06-19,125,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),MichaelSnyder99,5,2024-09-10,126,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),eatsSamantha,5,2025-02-04,232,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),AudreyHowell,4,2024-11-15,31,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),windStart,4,2024-10-20,42,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),forMarket,3,2025-03-23,157,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),foodieAmy,4,2025-01-03,35,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),DawnHays89,3,2025-01-20,161,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),AustinJones,5,2024-09-07,213,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),JulieJohnson23,5,2025-05-11,117,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),TrevorGonzalez,4,2025-05-27,90,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),courseFar,4,2025-08-26,226,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),chefKatelyn,4,2025-08-16,137,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),realMiss,3,2024-12-23,249,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),cookJeremy,3,2024-10-02,124,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),SueHumphrey,4,2025-06-22,27,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),MichaelBennett99,4,2025-01-17,253,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),RobertSwanson,3,2025-03-23,57,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),DebraWarren16,4,2025-04-06,101,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),flavorCorey,4,2024-11-07,88,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),RebeccaWallace,4,2024-10-01,232,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),cookKerry,2,2025-06-26,211,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),chefBlake,3,2024-12-21,138,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),DavidWilliams,3,2025-05-04,35,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),OscarHarris84,3,2024-11-26,117,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),happytaster179,3,2025-03-12,40,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),rangeHerself,4,2024-11-07,73,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),AdamHart,3,2025-02-09,94,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),bakingFrancisco,5,2025-02-28,81,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),tasteWilliam,5,2025-06-02,87,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),ChristianMontgomery56,4,2025-07-25,111,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),CynthiaMiranda,5,2025-08-02,34,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),CodyLowe41,5,2025-07-09,39,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),KendraRoth90,5,2024-09-17,102,Chinese
+26,Lanzhou Beef Noodle Soup (兰州牛肉面),YvonneTaylor16,3,2025-05-21,194,Chinese
+27,Lanzhou Liangpi (兰州凉皮),abc,5,2025-08-31,78,Chinese
+27,Lanzhou Liangpi (兰州凉皮),s,4,2025-06-15,26,Chinese
+27,Lanzhou Liangpi (兰州凉皮),c,4,2024-11-24,76,Chinese
+27,Lanzhou Liangpi (兰州凉皮),Hello,4,2025-02-27,135,Chinese
+27,Lanzhou Liangpi (兰州凉皮),JacobIsAwesome,5,2025-06-30,119,Chinese
+27,Lanzhou Liangpi (兰州凉皮),b,5,2024-11-25,138,Chinese
+27,Lanzhou Liangpi (兰州凉皮),a,4,2025-07-05,38,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ethan,3,2025-07-13,181,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ethan_is_fat,5,2025-08-16,148,Chinese
+27,Lanzhou Liangpi (兰州凉皮),NicoleGarcia,4,2025-05-08,97,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ChristopherGoodwin46,4,2025-03-18,81,Chinese
+27,Lanzhou Liangpi (兰州凉皮),MistyHunt,4,2025-04-30,44,Chinese
+27,Lanzhou Liangpi (兰州凉皮),DonGay91,3,2025-04-04,41,Chinese
+27,Lanzhou Liangpi (兰州凉皮),babyEmployee,4,2025-04-13,31,Chinese
+27,Lanzhou Liangpi (兰州凉皮),OscarHarris84,4,2025-01-21,82,Chinese
+27,Lanzhou Liangpi (兰州凉皮),BrandonWheeler,4,2024-10-25,33,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ChristianFord70,4,2024-10-26,30,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ElizabethEvans52,4,2024-10-07,81,Chinese
+27,Lanzhou Liangpi (兰州凉皮),ChristineGreene,3,2025-06-08,33,Chinese
+27,Lanzhou Liangpi (兰州凉皮),flavorKathleen,4,2025-05-13,31,Chinese
+27,Lanzhou Liangpi (兰州凉皮),buildBody,5,2024-12-28,72,Chinese
+27,Lanzhou Liangpi (兰州凉皮),paperWrite,2,2025-08-12,38,Chinese
+27,Lanzhou Liangpi (兰州凉皮),AngelaChristian,4,2025-08-17,26,Chinese
+27,Lanzhou Liangpi (兰州凉皮),AdamHart,3,2025-03-03,69,Chinese
+27,Lanzhou Liangpi (兰州凉皮),flavorVanessa,5,2024-11-08,27,Chinese
+27,Lanzhou Liangpi (兰州凉皮),SueHumphrey,5,2025-06-22,25,Chinese
+27,Lanzhou Liangpi (兰州凉皮),RachelJohnson,4,2025-01-11,42,Chinese
+27,Lanzhou Liangpi (兰州凉皮),systemNation,4,2025-08-09,110,Chinese
+27,Lanzhou Liangpi (兰州凉皮),hungryeater890,4,2024-12-13,221,Chinese
+27,Lanzhou Liangpi (兰州凉皮),waterItself,4,2024-10-23,113,Chinese
+27,Lanzhou Liangpi (兰州凉皮),chefDaniel,4,2025-05-16,136,Chinese
+27,Lanzhou Liangpi (兰州凉皮),tasteAngela,4,2025-01-25,141,Chinese
+28,Roujiamo (肉夹馍),abc,5,2025-08-31,9,Chinese
+28,Roujiamo (肉夹馍),Hello,3,2025-01-30,145,Chinese
+28,Roujiamo (肉夹馍),ethan,3,2024-11-30,162,Chinese
+28,Roujiamo (肉夹馍),a,4,2024-10-04,31,Chinese
+28,Roujiamo (肉夹馍),s,4,2025-01-13,25,Chinese
+28,Roujiamo (肉夹馍),JacobIsAwesome,3,2024-10-19,122,Chinese
+28,Roujiamo (肉夹馍),b,5,2024-11-02,94,Chinese
+28,Roujiamo (肉夹馍),c,5,2025-05-07,86,Chinese
+28,Roujiamo (肉夹馍),ethan_is_fat,5,2024-12-15,139,Chinese
+28,Roujiamo (肉夹馍),flavorCorey,5,2025-04-24,71,Chinese
+28,Roujiamo (肉夹馍),PatriciaGutierrez97,4,2025-02-09,100,Chinese
+28,Roujiamo (肉夹馍),RyanRodriguez17,4,2025-01-29,25,Chinese
+28,Roujiamo (肉夹馍),DannySoto,4,2025-03-17,100,Chinese
+28,Roujiamo (肉夹馍),EmilyBeck35,4,2025-04-10,21,Chinese
+28,Roujiamo (肉夹馍),JaredWilson53,4,2024-12-04,25,Chinese
+28,Roujiamo (肉夹馍),socialHappen,4,2025-07-06,66,Chinese
+28,Roujiamo (肉夹馍),ThomasWall57,5,2025-01-16,97,Chinese
+28,Roujiamo (肉夹馍),JessicaCooper80,3,2025-02-19,34,Chinese
+28,Roujiamo (肉夹馍),FrankTurner,4,2024-09-30,75,Chinese
+28,Roujiamo (肉夹馍),StephanieHarris,3,2024-11-16,86,Chinese
+28,Roujiamo (肉夹馍),cleverbaker515,4,2024-11-02,24,Chinese
+28,Roujiamo (肉夹馍),chefKenneth,4,2025-04-19,177,Chinese
+28,Roujiamo (肉夹馍),happygourmet995,3,2025-08-10,150,Chinese
+28,Roujiamo (肉夹馍),gourmetChristopher,3,2025-08-28,42,Chinese
+28,Roujiamo (肉夹馍),KimberlyGriffith,3,2024-09-21,129,Chinese
+28,Roujiamo (肉夹馍),DonGay91,5,2024-09-02,39,Chinese
+28,Roujiamo (肉夹馍),MelissaMorris61,4,2025-06-04,121,Chinese
+28,Roujiamo (肉夹馍),superbaker656,4,2025-06-21,119,Chinese
+28,Roujiamo (肉夹馍),JohnHopkins,5,2025-01-05,78,Chinese
+28,Roujiamo (肉夹馍),kitchenCory,4,2025-02-14,24,Chinese
+28,Roujiamo (肉夹馍),BenjaminFisher99,2,2025-05-20,183,Chinese
+28,Roujiamo (肉夹馍),HeatherMedina1,5,2025-03-17,64,Chinese
+28,Roujiamo (肉夹馍),gourmetSamuel,5,2024-09-18,124,Chinese
+28,Roujiamo (肉夹馍),happyfoodie860,4,2024-12-01,43,Chinese
+28,Roujiamo (肉夹馍),CodyLowe41,4,2024-09-28,33,Chinese
+28,Roujiamo (肉夹馍),KevinPope80,3,2024-09-30,155,Chinese

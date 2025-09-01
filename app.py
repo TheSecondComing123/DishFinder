@@ -27,6 +27,7 @@ from models import db, User, Dish, Review
 # App Setup
 app = Flask(__name__)
 app.config["SECRET_KEY"] = os.getenv("FLASK_SECRET", "supersecretkey")
+_SIMPLE_CACHE = {}
 
 # Database Configuration
 basedir = os.path.abspath(os.path.dirname(__file__))
@@ -34,7 +35,6 @@ app.config["SQLALCHEMY_DATABASE_URI"] = (
     f'sqlite:///{os.path.join(basedir, "food_app.db")}'
 )
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-_SIMPLE_CACHE = {}
 
 # Initialize extensions
 db.init_app(app)
